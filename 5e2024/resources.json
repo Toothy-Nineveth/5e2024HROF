@@ -1,0 +1,4738 @@
+{
+  "resources": [
+    {
+      "id": "snare",
+      "name": "Snare",
+      "path": "resources/spell_snare_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.681013"
+    },
+    {
+      "id": "detect_thoughts",
+      "name": "Detect Thoughts",
+      "path": "resources/spell_detect_thoughts_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.638175"
+    },
+    {
+      "id": "grease",
+      "name": "Grease",
+      "path": "resources/spell_grease_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.612994"
+    },
+    {
+      "id": "magic_initiate",
+      "name": "Magic Initiate",
+      "path": "resources/feat_magic_initiate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.413257"
+    },
+    {
+      "id": "pulse_wave",
+      "name": "Pulse Wave",
+      "path": "resources/spell_pulse_wave_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699960"
+    },
+    {
+      "id": "ua",
+      "name": "source_ua_ua",
+      "path": "resources/source_source_ua_ua.rpg",
+      "updated_at": "2025-01-10T08:05:38.930129"
+    },
+    {
+      "id": "stoneskin",
+      "name": "Stoneskin",
+      "path": "resources/spell_stoneskin_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664232"
+    },
+    {
+      "id": "seeming",
+      "name": "Seeming",
+      "path": "resources/spell_seeming_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663203"
+    },
+    {
+      "id": "spirit_of_death",
+      "name": "Spirit of Death",
+      "path": "resources/spell_spirit_of_death_bmt.rpg",
+      "updated_at": "2024-12-20T18:50:46.704965"
+    },
+    {
+      "id": "control_winds",
+      "name": "Control Winds",
+      "path": "resources/spell_control_winds_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.670192"
+    },
+    {
+      "id": "530921dd-e488-4c0a-a191-58a746916815",
+      "name": "source_frho_f_530921dd-e488-4c0a-a191-58a746916815",
+      "path": "resources/source_source_frho_f_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:22:03.804694"
+    },
+    {
+      "id": "true_resurrection",
+      "name": "True Resurrection",
+      "path": "resources/spell_true_resurrection_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.643076"
+    },
+    {
+      "id": "conjure_barrage",
+      "name": "Conjure Barrage",
+      "path": "resources/spell_conjure_barrage_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.630597"
+    },
+    {
+      "id": "magic_jar",
+      "name": "Magic Jar",
+      "path": "resources/spell_magic_jar_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.658100"
+    },
+    {
+      "id": "d0fe1c74-27de-49ba-9cd4-7061df9c6871",
+      "name": "Power Word Fortify",
+      "path": "resources/spell_power_word_fortify_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.641058"
+    },
+    {
+      "id": "heavily_armored",
+      "name": "Heavily Armored",
+      "path": "resources/feat_heavily_armored_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.422682"
+    },
+    {
+      "id": "imprisonment",
+      "name": "Imprisonment",
+      "path": "resources/spell_imprisonment_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640324"
+    },
+    {
+      "id": "aa721a9e-13d3-41cb-911c-c595b4690751",
+      "name": "Doomtide",
+      "path": "resources/spell_doomtide_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:45:02.135837"
+    },
+    {
+      "id": "scrying",
+      "name": "Scrying",
+      "path": "resources/spell_scrying_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663082"
+    },
+    {
+      "id": "ai",
+      "name": "source_ai_ai",
+      "path": "resources/source_source_ai_ai.rpg",
+      "updated_at": "2025-01-10T08:05:38.932507"
+    },
+    {
+      "id": "sanctuary",
+      "name": "Sanctuary",
+      "path": "resources/spell_sanctuary_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.621252"
+    },
+    {
+      "id": "vampiric_touch",
+      "name": "Vampiric Touch",
+      "path": "resources/spell_vampiric_touch_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664968"
+    },
+    {
+      "id": "investiture_of_flame",
+      "name": "Investiture of Flame",
+      "path": "resources/spell_investiture_of_flame_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.671464"
+    },
+    {
+      "id": "steel_wind_strike",
+      "name": "Steel Wind Strike",
+      "path": "resources/spell_steel_wind_strike_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.679332"
+    },
+    {
+      "id": "minor_illusion",
+      "name": "Minor Illusion",
+      "path": "resources/spell_minor_illusion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.619045"
+    },
+    {
+      "id": "8551c036-4285-4a1c-a342-5a97cd574689",
+      "name": "Sorcerous Burst",
+      "path": "resources/spell_sorcerous_burst_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.682058"
+    },
+    {
+      "id": "beacon_of_hope",
+      "name": "Beacon of Hope",
+      "path": "resources/spell_beacon_of_hope_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.628417"
+    },
+    {
+      "id": "796ffca5-5892-43fa-ad05-3f143d50e7fd",
+      "name": "Hermit",
+      "path": "resources/background_hermit_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.462503"
+    },
+    {
+      "id": "alarm",
+      "name": "Alarm",
+      "path": "resources/spell_alarm_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.604240"
+    },
+    {
+      "id": "hunters_mark",
+      "name": "Hunter's Mark",
+      "path": "resources/spell_hunter_s_mark_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.615842"
+    },
+    {
+      "id": "skulker",
+      "name": "Skulker",
+      "path": "resources/feat_skulker_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.410724"
+    },
+    {
+      "id": "charm_person",
+      "name": "Charm Person",
+      "path": "resources/spell_charm_person_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.606207"
+    },
+    {
+      "id": "immovable_object",
+      "name": "Immovable Object",
+      "path": "resources/spell_immovable_object_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699686"
+    },
+    {
+      "id": "llok",
+      "name": "source_llo_k_llok",
+      "path": "resources/source_source_llo_k_llok.rpg",
+      "updated_at": "2025-01-10T08:05:38.935493"
+    },
+    {
+      "id": "etherealness",
+      "name": "Etherealness",
+      "path": "resources/spell_etherealness_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.644212"
+    },
+    {
+      "id": "fast_friends",
+      "name": "Fast Friends",
+      "path": "resources/spell_fast_friends_ai.rpg",
+      "updated_at": "2024-12-20T18:50:46.688205"
+    },
+    {
+      "id": "835d07b9-5eca-4573-a909-37104ab56d11",
+      "name": "Harper",
+      "path": "resources/background_harper_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:48:59.499959"
+    },
+    {
+      "id": "wall_of_fire",
+      "name": "Wall of Fire",
+      "path": "resources/spell_wall_of_fire_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.665169"
+    },
+    {
+      "id": "crossbow_expert",
+      "name": "Crossbow Expert",
+      "path": "resources/feat_crossbow_expert_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.405794"
+    },
+    {
+      "id": "shield",
+      "name": "Shield",
+      "path": "resources/spell_shield_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.621793"
+    },
+    {
+      "id": "696f2bfd-223b-4385-af28-d42c015880ae",
+      "name": "Conjure Constructs",
+      "path": "resources/spell_conjure_constructs_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:40:59.861177"
+    },
+    {
+      "id": "5acb6ac8-24c3-4381-acca-f5edf72a7fbc",
+      "name": "Boon of Recovery",
+      "path": "resources/feat_boon_of_recovery_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.471467"
+    },
+    {
+      "id": "erupting_earth",
+      "name": "Erupting Earth",
+      "path": "resources/spell_erupting_earth_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.670495"
+    },
+    {
+      "id": "warlock",
+      "name": "Warlock",
+      "path": "resources/class_warlock_phb.rpg",
+      "updated_at": "2025-07-28T17:49:29.519006"
+    },
+    {
+      "id": "storm_of_vengeance",
+      "name": "Storm of Vengeance",
+      "path": "resources/spell_storm_of_vengeance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.641870"
+    },
+    {
+      "id": "4f6eb34e-23b0-49ab-9ccd-6129442bc8a6",
+      "name": "Purple Dragon Squire",
+      "path": "resources/background_purple_dragon_squire_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:55:57.028085"
+    },
+    {
+      "id": "chaos_bolt",
+      "name": "Chaos Bolt",
+      "path": "resources/spell_chaos_bolt_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.647468"
+    },
+    {
+      "id": "fortunes_favor",
+      "name": "Fortune's Favor",
+      "path": "resources/spell_fortune_s_favor_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699144"
+    },
+    {
+      "id": "7d0e6b31-7b66-4d09-a350-3bf348b1df6f",
+      "name": "Guard",
+      "path": "resources/background_guard_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.497"
+    },
+    {
+      "id": "armor_of_agathys",
+      "name": "Armor of Agathys",
+      "path": "resources/spell_armor_of_agathys_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.604822"
+    },
+    {
+      "id": "chef__tce_",
+      "name": "Chef",
+      "path": "resources/feat_chef_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.402805"
+    },
+    {
+      "id": "shocking_grasp",
+      "name": "Shocking Grasp",
+      "path": "resources/spell_shocking_grasp_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.622158"
+    },
+    {
+      "id": "beast_sense",
+      "name": "Beast Sense",
+      "path": "resources/spell_beast_sense_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.637155"
+    },
+    {
+      "id": "mass_cure_wounds",
+      "name": "Mass Cure Wounds",
+      "path": "resources/spell_mass_cure_wounds_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.658578"
+    },
+    {
+      "id": "a65f240f-25d3-4d9c-8789-11f310a6cdc3",
+      "name": "Fount of Moonlight",
+      "path": "resources/spell_fount_of_moonlight_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.632384"
+    },
+    {
+      "id": "meteor_swarm",
+      "name": "Meteor Swarm",
+      "path": "resources/spell_meteor_swarm_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640816"
+    },
+    {
+      "id": "07b81bce-c591-44ce-ae36-c0d185ef3632",
+      "name": "Druidic Warrior",
+      "path": "resources/feat_druidic_warrior_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.508598"
+    },
+    {
+      "id": "cure_wounds",
+      "name": "Cure Wounds",
+      "path": "resources/spell_cure_wounds_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.608343"
+    },
+    {
+      "id": "phantasmal_force",
+      "name": "Phantasmal Force",
+      "path": "resources/spell_phantasmal_force_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.661495"
+    },
+    {
+      "id": "antagonize",
+      "name": "Antagonize",
+      "path": "resources/spell_antagonize_aag.rpg",
+      "updated_at": "2024-12-20T18:50:46.704823"
+    },
+    {
+      "id": "witch_bolt",
+      "name": "Witch Bolt",
+      "path": "resources/spell_witch_bolt_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.624801"
+    },
+    {
+      "id": "9d6ceda6-d905-4437-8112-f620663e6718",
+      "name": "Boon of Exquisite Radiance",
+      "path": "resources/feat_boon_of_exquisite_radiance_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:02:32.362760"
+    },
+    {
+      "id": "warp_sense",
+      "name": "Warp Sense",
+      "path": "resources/spell_warp_sense_sato.rpg",
+      "updated_at": "2024-12-20T18:50:46.704714"
+    },
+    {
+      "id": "protection_from_energy",
+      "name": "Protection from Energy",
+      "path": "resources/spell_protection_from_energy_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634963"
+    },
+    {
+      "id": "bard",
+      "name": "Bard",
+      "path": "resources/class_bard_phb.rpg",
+      "updated_at": "2025-11-08T19:14:02.376252"
+    },
+    {
+      "id": "fighter",
+      "name": "Fighter",
+      "path": "resources/class_fighter_phb.rpg",
+      "updated_at": "2025-11-08T19:18:24.146521"
+    },
+    {
+      "id": "weapon_master",
+      "name": "Weapon Master",
+      "path": "resources/feat_weapon_master_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.403945"
+    },
+    {
+      "id": "c19a7461-a779-4aa8-b5d7-cb96e3d4a9ab",
+      "name": "Boon of the Furious Storm",
+      "path": "resources/feat_boon_of_the_furious_storm_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:05:27.091959"
+    },
+    {
+      "id": "gaseous_form",
+      "name": "Gaseous Form",
+      "path": "resources/spell_gaseous_form_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.632534"
+    },
+    {
+      "id": "sword_burst",
+      "name": "Sword Burst",
+      "path": "resources/spell_sword_burst_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.698115"
+    },
+    {
+      "id": "mounted_combatant",
+      "name": "Mounted Combatant",
+      "path": "resources/feat_mounted_combatant_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.415371"
+    },
+    {
+      "id": "summon_shadowspawn",
+      "name": "Summon Shadowspawn",
+      "path": "resources/spell_summon_shadowspawn_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.697850"
+    },
+    {
+      "id": "divine_word",
+      "name": "Divine Word",
+      "path": "resources/spell_divine_word_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.644095"
+    },
+    {
+      "id": "mind_blank",
+      "name": "Mind Blank",
+      "path": "resources/spell_mind_blank_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640954"
+    },
+    {
+      "id": "spike_growth",
+      "name": "Spike Growth",
+      "path": "resources/spell_spike_growth_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663720"
+    },
+    {
+      "id": "magnify_gravity",
+      "name": "Magnify Gravity",
+      "path": "resources/spell_magnify_gravity_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699795"
+    },
+    {
+      "id": "grasping_vine",
+      "name": "Grasping Vine",
+      "path": "resources/spell_grasping_vine_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655038"
+    },
+    {
+      "id": "find_traps",
+      "name": "Find Traps",
+      "path": "resources/spell_find_traps_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.652856"
+    },
+    {
+      "id": "contact_other_plane",
+      "name": "Contact Other Plane",
+      "path": "resources/spell_contact_other_plane_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.649404"
+    },
+    {
+      "id": "ottos_irresistible_dance",
+      "name": "Otto's Irresistible Dance",
+      "path": "resources/spell_otto_s_irresistible_dance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.681329"
+    },
+    {
+      "id": "healing_word",
+      "name": "Healing Word",
+      "path": "resources/spell_healing_word_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.614222"
+    },
+    {
+      "id": "gust",
+      "name": "Gust",
+      "path": "resources/spell_gust_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.668144"
+    },
+    {
+      "id": "jims_magic_missile",
+      "name": "Jim's Magic Missile",
+      "path": "resources/spell_jim_s_magic_missile_ai.rpg",
+      "updated_at": "2024-12-20T18:50:46.687359"
+    },
+    {
+      "id": "globe_of_invulnerability",
+      "name": "Globe of Invulnerability",
+      "path": "resources/spell_globe_of_invulnerability_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.654613"
+    },
+    {
+      "id": "dsdq",
+      "name": "source_dsdq_dsdq",
+      "path": "resources/source_source_dsdq_dsdq.rpg",
+      "updated_at": "2025-01-10T08:05:38.929093"
+    },
+    {
+      "id": "paladin",
+      "name": "Paladin",
+      "path": "resources/class_paladin_phb.rpg",
+      "updated_at": "2025-11-08T19:22:47.492400"
+    },
+    {
+      "id": "wind_wall",
+      "name": "Wind Wall",
+      "path": "resources/spell_wind_wall_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.666552"
+    },
+    {
+      "id": "dominate_monster",
+      "name": "Dominate Monster",
+      "path": "resources/spell_dominate_monster_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.639386"
+    },
+    {
+      "id": "e4a569a1-0b1e-426b-9608-81b244d52da5",
+      "name": "Two-Weapon Fighting",
+      "path": "resources/feat_two_weapon_fighting_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.565121"
+    },
+    {
+      "id": "speak_with_plants",
+      "name": "Speak with Plants",
+      "path": "resources/spell_speak_with_plants_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.635730"
+    },
+    {
+      "id": "cbc1b423-27a6-4a27-8bbc-d703af9c9ea9",
+      "name": "Lords' Alliance Agent",
+      "path": "resources/feat_lords_alliance_agent_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:53:31.642269"
+    },
+    {
+      "id": "blur",
+      "name": "Blur",
+      "path": "resources/spell_blur_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.637263"
+    },
+    {
+      "id": "6d1bb635-f698-4f73-847b-31f7c04f94df",
+      "name": "Befuddlement",
+      "path": "resources/spell_befuddlement_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.603383"
+    },
+    {
+      "id": "savage_attacker",
+      "name": "Savage Attacker",
+      "path": "resources/feat_savage_attacker_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.402243"
+    },
+    {
+      "id": "esk",
+      "name": "source_esk_esk",
+      "path": "resources/source_source_esk_esk.rpg",
+      "updated_at": "2025-01-10T08:05:38.933010"
+    },
+    {
+      "id": "84930251-63fe-4909-8549-f580fef71076",
+      "name": "Archery",
+      "path": "resources/feat_archery_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.569352"
+    },
+    {
+      "id": "guidance",
+      "name": "Guidance",
+      "path": "resources/spell_guidance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.613151"
+    },
+    {
+      "id": "65f6c2db-e73a-42fa-9371-af3dc4f33bc1",
+      "name": "Starry Wisp",
+      "path": "resources/spell_starry_wisp_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.705091"
+    },
+    {
+      "id": "psx",
+      "name": "source_psx_psx",
+      "path": "resources/source_source_psx_psx.rpg",
+      "updated_at": "2025-01-10T08:05:38.936914"
+    },
+    {
+      "id": "kftgv",
+      "name": "source_kft_gv_kftgv",
+      "path": "resources/source_source_kft_gv_kftgv.rpg",
+      "updated_at": "2025-01-10T08:05:38.933639"
+    },
+    {
+      "id": "hallucinatory_terrain",
+      "name": "Hallucinatory Terrain",
+      "path": "resources/spell_hallucinatory_terrain_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655798"
+    },
+    {
+      "id": "bigbys_hand",
+      "name": "Bigby's Hand",
+      "path": "resources/spell_bigby_s_hand_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.677806"
+    },
+    {
+      "id": "earth_tremor",
+      "name": "Earth Tremor",
+      "path": "resources/spell_earth_tremor_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.667081"
+    },
+    {
+      "id": "polearm_master",
+      "name": "Polearm Master",
+      "path": "resources/feat_polearm_master_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.419859"
+    },
+    {
+      "id": "fire_storm",
+      "name": "Fire Storm",
+      "path": "resources/spell_fire_storm_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.644503"
+    },
+    {
+      "id": "prestidigitation",
+      "name": "Prestidigitation",
+      "path": "resources/spell_prestidigitation_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.619420"
+    },
+    {
+      "id": "gift_of_alacrity",
+      "name": "Gift of Alacrity",
+      "path": "resources/spell_gift_of_alacrity_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699236"
+    },
+    {
+      "id": "sapping_sting",
+      "name": "Sapping Sting",
+      "path": "resources/spell_sapping_sting_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.700411"
+    },
+    {
+      "id": "ray_of_frost",
+      "name": "Ray of Frost",
+      "path": "resources/spell_ray_of_frost_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.620198"
+    },
+    {
+      "id": "oow",
+      "name": "source_oo_w_oow",
+      "path": "resources/source_source_oo_w_oow.rpg",
+      "updated_at": "2025-01-10T08:05:38.934587"
+    },
+    {
+      "id": "heat_metal",
+      "name": "Heat Metal",
+      "path": "resources/spell_heat_metal_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.656230"
+    },
+    {
+      "id": "778645af-4f23-4f07-bc47-4cb87e62844d",
+      "name": "Chondathan Freebooter",
+      "path": "resources/background_chondathan_freebooter_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:26:10.264216"
+    },
+    {
+      "id": "0ab44d05-9d81-4dfa-90f2-45b079053b2a",
+      "name": "Boon of Irresistible Offense",
+      "path": "resources/feat_boon_of_irresistible_offense_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.585626"
+    },
+    {
+      "id": "dominate_person",
+      "name": "Dominate Person",
+      "path": "resources/spell_dominate_person_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.651213"
+    },
+    {
+      "id": "dmg",
+      "name": "source_dmg24_dmg",
+      "path": "resources/source_source_dmg24_dmg.rpg",
+      "updated_at": "2025-01-10T08:05:38.929694"
+    },
+    {
+      "id": "dust_devil",
+      "name": "Dust Devil",
+      "path": "resources/spell_dust_devil_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.669777"
+    },
+    {
+      "id": "guards_and_wards",
+      "name": "Guards and Wards",
+      "path": "resources/spell_guards_and_wards_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655567"
+    },
+    {
+      "id": "guardian_of_faith",
+      "name": "Guardian of Faith",
+      "path": "resources/spell_guardian_of_faith_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655454"
+    },
+    {
+      "id": "arms_of_hadar",
+      "name": "Arms of Hadar",
+      "path": "resources/spell_arms_of_hadar_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.674208"
+    },
+    {
+      "id": "durable",
+      "name": "Durable",
+      "path": "resources/feat_durable_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.414493"
+    },
+    {
+      "id": "unseen_servant",
+      "name": "Unseen Servant",
+      "path": "resources/spell_unseen_servant_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.624368"
+    },
+    {
+      "id": "mage_hand",
+      "name": "Mage Hand",
+      "path": "resources/spell_mage_hand_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.618336"
+    },
+    {
+      "id": "cb418782-4ba3-4f25-8555-e238f4a425dc",
+      "name": "Speedy",
+      "path": "resources/feat_speedy_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.592050"
+    },
+    {
+      "id": "remove_curse",
+      "name": "Remove Curse",
+      "path": "resources/spell_remove_curse_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.620667"
+    },
+    {
+      "id": "wither_and_bloom",
+      "name": "Wither and Bloom",
+      "path": "resources/spell_wither_and_bloom_scc.rpg",
+      "updated_at": "2024-12-20T18:50:46.704283"
+    },
+    {
+      "id": "536b0d1e-c600-461b-b32d-a94ec2b9aaf0",
+      "name": "Death Armor",
+      "path": "resources/spell_death_armor_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:41:35.360663"
+    },
+    {
+      "id": "psk",
+      "name": "source_psk_psk",
+      "path": "resources/source_source_psk_psk.rpg",
+      "updated_at": "2025-01-10T08:05:38.936428"
+    },
+    {
+      "id": "dosi",
+      "name": "source_do_si_dosi",
+      "path": "resources/source_source_do_si_dosi.rpg",
+      "updated_at": "2025-01-10T08:05:38.932859"
+    },
+    {
+      "id": "vgm",
+      "name": "source_vgm_vgm",
+      "path": "resources/source_source_vgm_vgm.rpg",
+      "updated_at": "2025-01-10T08:05:38.931902"
+    },
+    {
+      "id": "temporal_shunt",
+      "name": "Temporal Shunt",
+      "path": "resources/spell_temporal_shunt_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.700633"
+    },
+    {
+      "id": "draconic_transformation",
+      "name": "Draconic Transformation",
+      "path": "resources/spell_draconic_transformation_ftd.rpg",
+      "updated_at": "2024-12-20T18:50:46.701841"
+    },
+    {
+      "id": "363a5578-23f4-485b-8e92-98855957d2e0",
+      "name": "Mulhorandi Tomb Raider",
+      "path": "resources/background_mulhorandi_tomb_raider_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:39:43.878461"
+    },
+    {
+      "id": "teleport",
+      "name": "Teleport",
+      "path": "resources/spell_teleport_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646218"
+    },
+    {
+      "id": "summon_beast",
+      "name": "Summon Beast",
+      "path": "resources/spell_summon_beast_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.696839"
+    },
+    {
+      "id": "ca2b04bc-a3e3-4a75-85c4-8f4496bcc833",
+      "name": "Knight of the Gauntlet\u000bnig",
+      "path": "resources/background_knight_of_the_gauntlet_nig_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:52:22.767380"
+    },
+    {
+      "id": "galders_tower",
+      "name": "Galder's Tower",
+      "path": "resources/spell_galder_s_tower_llok.rpg",
+      "updated_at": "2024-12-20T18:50:46.688311"
+    },
+    {
+      "id": "cordon_of_arrows",
+      "name": "Cordon Of Arrows",
+      "path": "resources/spell_cordon_of_arrows_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.637640"
+    },
+    {
+      "id": "antimagic_field",
+      "name": "Antimagic Field",
+      "path": "resources/spell_antimagic_field_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.638435"
+    },
+    {
+      "id": "d03ff7f3-4f44-434e-a149-883f0a193928",
+      "name": "Harper Teamwork",
+      "path": "resources/feat_harper_teamwork_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:07:00.011781"
+    },
+    {
+      "id": "lightly_armored",
+      "name": "Lightly Armored",
+      "path": "resources/feat_lightly_armored_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.418101"
+    },
+    {
+      "id": "ensnaring_strike",
+      "name": "Ensnaring Strike",
+      "path": "resources/spell_ensnaring_strike_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.610966"
+    },
+    {
+      "id": "faerie_fire",
+      "name": "Faerie Fire",
+      "path": "resources/spell_faerie_fire_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.611430"
+    },
+    {
+      "id": "dawn",
+      "name": "Dawn",
+      "path": "resources/spell_dawn_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.690733"
+    },
+    {
+      "id": "mind_thrust__ua_",
+      "name": "Mind Thrust",
+      "path": "resources/spell_mind_thrust_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.687965"
+    },
+    {
+      "id": "sleet_storm",
+      "name": "Sleet Storm",
+      "path": "resources/spell_sleet_storm_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.635313"
+    },
+    {
+      "id": "true_strike",
+      "name": "True Strike",
+      "path": "resources/spell_true_strike_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.624120"
+    },
+    {
+      "id": "barkskin",
+      "name": "Barkskin",
+      "path": "resources/spell_barkskin_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634174"
+    },
+    {
+      "id": "f5b184d6-490a-4a00-aa6d-053110a82f0b",
+      "name": "Laeral's Silver Lance",
+      "path": "resources/spell_laeral_s_silver_lance_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:52:39.557584"
+    },
+    {
+      "id": "tsunami",
+      "name": "Tsunami",
+      "path": "resources/spell_tsunami_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.642609"
+    },
+    {
+      "id": "adff3219-5a46-4dd4-b00d-600b07c1a03f",
+      "name": "Order's Resilience",
+      "path": "resources/feat_order_s_resilience_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:07:33.303980"
+    },
+    {
+      "id": "slasher__tce_",
+      "name": "Slasher",
+      "path": "resources/feat_slasher_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.399645"
+    },
+    {
+      "id": "augury",
+      "name": "Augury",
+      "path": "resources/spell_augury_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.625781"
+    },
+    {
+      "id": "plane_shift",
+      "name": "Plane Shift",
+      "path": "resources/spell_plane_shift_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.645254"
+    },
+    {
+      "id": "branding_smite",
+      "name": "Shining Smite",
+      "path": "resources/spell_shining_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.637420"
+    },
+    {
+      "id": "77e6780b-9e2f-42e4-a6ae-876b32dc5793",
+      "name": "Farmer",
+      "path": "resources/background_farmer_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.610341"
+    },
+    {
+      "id": "chill_touch",
+      "name": "Chill Touch",
+      "path": "resources/spell_chill_touch_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.606434"
+    },
+    {
+      "id": "prismatic_spray",
+      "name": "Prismatic Spray",
+      "path": "resources/spell_prismatic_spray_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.644890"
+    },
+    {
+      "id": "dispel_evil_and_good",
+      "name": "Dispel Evil and Good",
+      "path": "resources/spell_dispel_evil_and_good_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.650930"
+    },
+    {
+      "id": "divine_favor",
+      "name": "Divine Favor",
+      "path": "resources/spell_divine_favor_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.609534"
+    },
+    {
+      "id": "3e888c44-0118-4493-9ae1-c45bd917f6fa",
+      "name": "Cult Initiate",
+      "path": "resources/feat_cult_initiate_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:45:24.840711"
+    },
+    {
+      "id": "revivify",
+      "name": "Revivify",
+      "path": "resources/spell_revivify_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.635073"
+    },
+    {
+      "id": "detect_evil_and_good",
+      "name": "Detect Evil and Good",
+      "path": "resources/spell_detect_evil_and_good_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.608822"
+    },
+    {
+      "id": "3dd93bcb-9a9a-4ae3-b95f-40c37f48eafc",
+      "name": "Enclave Magic",
+      "path": "resources/feat_enclave_magic_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:09:23.263131"
+    },
+    {
+      "id": "ceremony",
+      "name": "Ceremony",
+      "path": "resources/spell_ceremony_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.677200"
+    },
+    {
+      "id": "prayer_of_healing",
+      "name": "Prayer of Healing",
+      "path": "resources/spell_prayer_of_healing_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.626472"
+    },
+    {
+      "id": "cm",
+      "name": "source_cm_cm",
+      "path": "resources/source_source_cm_cm.rpg",
+      "updated_at": "2025-01-10T08:05:38.932428"
+    },
+    {
+      "id": "keen_mind",
+      "name": "Keen Mind",
+      "path": "resources/feat_keen_mind_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.424415"
+    },
+    {
+      "id": "compulsion",
+      "name": "Compulsion",
+      "path": "resources/spell_compulsion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.630325"
+    },
+    {
+      "id": "melfs_minute_meteors",
+      "name": "Melf's Minute Meteors",
+      "path": "resources/spell_melf_s_minute_meteors_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.688671"
+    },
+    {
+      "id": "detect_poison_or_disease",
+      "name": "Detect Poison or Disease",
+      "path": "resources/spell_detect_poison_or_disease_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.609151"
+    },
+    {
+      "id": "sacred_flame",
+      "name": "Sacred Flame",
+      "path": "resources/spell_sacred_flame_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.621072"
+    },
+    {
+      "id": "goodberry",
+      "name": "Goodberry",
+      "path": "resources/spell_goodberry_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.612847"
+    },
+    {
+      "id": "4032f5bf-e7fc-4036-8e72-b71420686702",
+      "name": "Boon of Fluid Forms",
+      "path": "resources/feat_boon_of_fluid_forms_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:03:10.919959"
+    },
+    {
+      "id": "create_food_and_water",
+      "name": "Create Food and Water",
+      "path": "resources/spell_create_food_and_water_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.630896"
+    },
+    {
+      "id": "feather_fall",
+      "name": "Feather Fall",
+      "path": "resources/spell_feather_fall_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.611972"
+    },
+    {
+      "id": "nystuls_magic_aura",
+      "name": "Nystul's Magic Aura",
+      "path": "resources/spell_nystul_s_magic_aura_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.675305"
+    },
+    {
+      "id": "thunderwave",
+      "name": "Thunderwave",
+      "path": "resources/spell_thunderwave_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.623881"
+    },
+    {
+      "id": "fizbans_platinum_shield",
+      "name": "Fizban's Platinum Shield",
+      "path": "resources/spell_fizban_s_platinum_shield_ftd.rpg",
+      "updated_at": "2024-12-20T18:50:46.701981"
+    },
+    {
+      "id": "vicious_mockery",
+      "name": "Vicious Mockery",
+      "path": "resources/spell_vicious_mockery_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.624545"
+    },
+    {
+      "id": "moonbeam",
+      "name": "Moonbeam",
+      "path": "resources/spell_moonbeam_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.660717"
+    },
+    {
+      "id": "gate_seal",
+      "name": "Gate Seal",
+      "path": "resources/spell_gate_seal_sato.rpg",
+      "updated_at": "2024-12-20T18:50:46.704626"
+    },
+    {
+      "id": "symbol",
+      "name": "Symbol",
+      "path": "resources/spell_symbol_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646051"
+    },
+    {
+      "id": "actor",
+      "name": "Actor",
+      "path": "resources/feat_actor_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.409169"
+    },
+    {
+      "id": "1d1143a1-7283-42f4-8e95-e63ba5695052",
+      "name": "Dirge",
+      "path": "resources/spell_dirge_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:43:33.365295"
+    },
+    {
+      "id": "conjure_animals",
+      "name": "Conjure Animals",
+      "path": "resources/spell_conjure_animals_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.630455"
+    },
+    {
+      "id": "summon_greater_demon",
+      "name": "Summon Greater Demon",
+      "path": "resources/spell_summon_greater_demon_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.680878"
+    },
+    {
+      "id": "confusion",
+      "name": "Confusion",
+      "path": "resources/spell_confusion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.636241"
+    },
+    {
+      "id": "phantom_steed",
+      "name": "Phantom Steed",
+      "path": "resources/spell_phantom_steed_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634597"
+    },
+    {
+      "id": "druidcraft",
+      "name": "Druidcraft",
+      "path": "resources/spell_druidcraft_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.610166"
+    },
+    {
+      "id": "insect_plague",
+      "name": "Insect Plague",
+      "path": "resources/spell_insect_plague_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657056"
+    },
+    {
+      "id": "investiture_of_ice",
+      "name": "Investiture of Ice",
+      "path": "resources/spell_investiture_of_ice_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.671623"
+    },
+    {
+      "id": "6293614d-e569-4914-a0af-d39bb8e3fc56",
+      "name": "Lord's Alliance Vassal",
+      "path": "resources/background_lord_s_alliance_vassal_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:54:08.170747"
+    },
+    {
+      "id": "spray_of_cards",
+      "name": "Spray of Cards",
+      "path": "resources/spell_spray_of_cards_bmt.rpg",
+      "updated_at": "2024-12-20T18:50:46.705091"
+    },
+    {
+      "id": "cos",
+      "name": "source_co_s_cos",
+      "path": "resources/source_source_co_s_cos.rpg",
+      "updated_at": "2025-01-10T08:05:38.932256"
+    },
+    {
+      "id": "conjure_fey",
+      "name": "Conjure Fey",
+      "path": "resources/spell_conjure_fey_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.649078"
+    },
+    {
+      "id": "conjure_woodland_beings",
+      "name": "Conjure Woodland Beings",
+      "path": "resources/spell_conjure_woodland_beings_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.636695"
+    },
+    {
+      "id": "gos",
+      "name": "source_go_s_gos",
+      "path": "resources/source_source_go_s_gos.rpg",
+      "updated_at": "2025-01-10T08:05:38.933159"
+    },
+    {
+      "id": "dragons_breath",
+      "name": "Dragon's Breath",
+      "path": "resources/spell_dragon_s_breath_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.674931"
+    },
+    {
+      "id": "death_ward",
+      "name": "Death Ward",
+      "path": "resources/spell_death_ward_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.636822"
+    },
+    {
+      "id": "52d21d48-7b2a-4bb1-b65d-fd12a40e0c35",
+      "name": "Cacophonic Shield",
+      "path": "resources/spell_cacophonic_shield_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:40:02.020848"
+    },
+    {
+      "id": "antipathy_sympathy",
+      "name": "Antipathy/Sympathy",
+      "path": "resources/spell_antipathy_sympathy_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.638558"
+    },
+    {
+      "id": "lesser_restoration",
+      "name": "Lesser Restoration",
+      "path": "resources/spell_lesser_restoration_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.626195"
+    },
+    {
+      "id": "jttrc",
+      "name": "source_jtt_rc_jttrc",
+      "path": "resources/source_source_jtt_rc_jttrc.rpg",
+      "updated_at": "2025-01-10T08:05:38.933548"
+    },
+    {
+      "id": "lox",
+      "name": "source_lo_x_lox",
+      "path": "resources/source_source_lo_x_lox.rpg",
+      "updated_at": "2025-01-10T08:05:38.931562"
+    },
+    {
+      "id": "move_earth",
+      "name": "Move Earth",
+      "path": "resources/spell_move_earth_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.660916"
+    },
+    {
+      "id": "bam",
+      "name": "source_bam_bam",
+      "path": "resources/source_source_bam_bam.rpg",
+      "updated_at": "2025-01-10T08:05:38.931041"
+    },
+    {
+      "id": "zone_of_truth",
+      "name": "Zone of Truth",
+      "path": "resources/spell_zone_of_truth_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.666873"
+    },
+    {
+      "id": "mass_heal",
+      "name": "Mass Heal",
+      "path": "resources/spell_mass_heal_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640593"
+    },
+    {
+      "id": "blade_of_disaster",
+      "name": "Blade of Disaster",
+      "path": "resources/spell_blade_of_disaster_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.694935"
+    },
+    {
+      "id": "ritual_caster",
+      "name": "Ritual Caster",
+      "path": "resources/feat_ritual_caster_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.397713"
+    },
+    {
+      "id": "distort_value",
+      "name": "Distort Value",
+      "path": "resources/spell_distort_value_ai.rpg",
+      "updated_at": "2024-12-20T18:50:46.687243"
+    },
+    {
+      "id": "thaumaturgy",
+      "name": "Thaumaturgy",
+      "path": "resources/spell_thaumaturgy_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.623112"
+    },
+    {
+      "id": "phantasmal_killer",
+      "name": "Phantasmal Killer",
+      "path": "resources/spell_phantasmal_killer_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.661268"
+    },
+    {
+      "id": "incite_greed",
+      "name": "Incite Greed",
+      "path": "resources/spell_incite_greed_ai.rpg",
+      "updated_at": "2024-12-20T18:50:46.688443"
+    },
+    {
+      "id": "blade_barrier",
+      "name": "Blade Barrier",
+      "path": "resources/spell_blade_barrier_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.647667"
+    },
+    {
+      "id": "0fdd7e7c-b6d8-4968-9ff5-780d419a344c",
+      "name": "Elementalism",
+      "path": "resources/spell_elementalism_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.610486"
+    },
+    {
+      "id": "prismatic_wall",
+      "name": "Prismatic Wall",
+      "path": "resources/spell_prismatic_wall_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.641449"
+    },
+    {
+      "id": "flock_of_familiars",
+      "name": "Flock of Familiars",
+      "path": "resources/spell_flock_of_familiars_lox.rpg",
+      "updated_at": "2024-12-20T18:50:46.694801"
+    },
+    {
+      "id": "flame_stride",
+      "name": "Flame Stride",
+      "path": "resources/spell_flame_stride_ftd.rpg",
+      "updated_at": "2024-12-20T18:50:46.702120"
+    },
+    {
+      "id": "tough",
+      "name": "Tough",
+      "path": "resources/feat_tough_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.390252"
+    },
+    {
+      "id": "psa",
+      "name": "source_psa_psa",
+      "path": "resources/source_source_psa_psa.rpg",
+      "updated_at": "2025-01-10T08:05:38.936014"
+    },
+    {
+      "id": "silvery_barbs",
+      "name": "Silvery Barbs",
+      "path": "resources/spell_silvery_barbs_scc.rpg",
+      "updated_at": "2024-12-20T18:50:46.704085"
+    },
+    {
+      "id": "heroes_feast",
+      "name": "Heroes' Feast",
+      "path": "resources/spell_heroes_feast_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.656539"
+    },
+    {
+      "id": "acid_stream__ua_",
+      "name": "Acid Stream",
+      "path": "resources/spell_acid_stream_aag.rpg",
+      "updated_at": "2024-12-20T18:50:46.686977"
+    },
+    {
+      "id": "ab7b159a-d6af-4e1f-8e71-8c2986a90578",
+      "name": "Boon of Energy Resistance",
+      "path": "resources/feat_boon_of_energy_resistance_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.649613"
+    },
+    {
+      "id": "wall_of_ice",
+      "name": "Wall of Ice",
+      "path": "resources/spell_wall_of_ice_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.665360"
+    },
+    {
+      "id": "4dcf8a44-3e1c-48ed-a34e-61aa496d32d8",
+      "name": "Elminster's Elusion",
+      "path": "resources/spell_elminster_s_elusion_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:46:34.810957"
+    },
+    {
+      "id": "demiplane",
+      "name": "Demiplane",
+      "path": "resources/spell_demiplane_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.639259"
+    },
+    {
+      "id": "8acf3de4-414b-4241-93a0-89f26de859aa",
+      "name": "Boon of Dimensional Travel",
+      "path": "resources/feat_boon_of_dimensional_travel_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.652172"
+    },
+    {
+      "id": "blade_ward",
+      "name": "Blade Ward",
+      "path": "resources/spell_blade_ward_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.605386"
+    },
+    {
+      "id": "eyebite",
+      "name": "Eyebite",
+      "path": "resources/spell_eyebite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.652438"
+    },
+    {
+      "id": "sunbeam",
+      "name": "Sunbeam",
+      "path": "resources/spell_sunbeam_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664110"
+    },
+    {
+      "id": "watery_sphere",
+      "name": "Watery Sphere",
+      "path": "resources/spell_watery_sphere_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.672992"
+    },
+    {
+      "id": "danse_macabre",
+      "name": "Danse Macabre",
+      "path": "resources/spell_danse_macabre_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.680048"
+    },
+    {
+      "id": "zephyr_strike",
+      "name": "Zephyr Strike",
+      "path": "resources/spell_zephyr_strike_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.683099"
+    },
+    {
+      "id": "blight",
+      "name": "Blight",
+      "path": "resources/spell_blight_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.628598"
+    },
+    {
+      "id": "summon_fey",
+      "name": "Summon Fey",
+      "path": "resources/spell_summon_fey_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.697558"
+    },
+    {
+      "id": "maze",
+      "name": "Maze",
+      "path": "resources/spell_maze_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640695"
+    },
+    {
+      "id": "false_life",
+      "name": "False Life",
+      "path": "resources/spell_false_life_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.611769"
+    },
+    {
+      "id": "commune",
+      "name": "Commune",
+      "path": "resources/spell_commune_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.648571"
+    },
+    {
+      "id": "true_polymorph",
+      "name": "True Polymorph",
+      "path": "resources/spell_true_polymorph_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.642472"
+    },
+    {
+      "id": "giant_insect",
+      "name": "Giant Insect",
+      "path": "resources/spell_giant_insect_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.654500"
+    },
+    {
+      "id": "hold_person",
+      "name": "Hold Person",
+      "path": "resources/spell_hold_person_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.626072"
+    },
+    {
+      "id": "hunger_of_hadar",
+      "name": "Hunger of Hadar",
+      "path": "resources/spell_hunger_of_hadar_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.674444"
+    },
+    {
+      "id": "jump",
+      "name": "Jump",
+      "path": "resources/spell_jump_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.617281"
+    },
+    {
+      "id": "28ba8258-7a88-46ce-a98c-29a9e932a6ad",
+      "name": "Artisan",
+      "path": "resources/background_artisan_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.661512"
+    },
+    {
+      "id": "mind_spike",
+      "name": "Mind Spike",
+      "path": "resources/spell_mind_spike_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.677341"
+    },
+    {
+      "id": "scag",
+      "name": "source_scag_scag",
+      "path": "resources/source_source_scag_scag.rpg",
+      "updated_at": "2025-01-10T08:05:38.930689"
+    },
+    {
+      "id": "control_water",
+      "name": "Control Water",
+      "path": "resources/spell_control_water_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.636530"
+    },
+    {
+      "id": "longstrider",
+      "name": "Longstrider",
+      "path": "resources/spell_longstrider_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.617974"
+    },
+    {
+      "id": "sending",
+      "name": "Sending",
+      "path": "resources/spell_sending_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.635188"
+    },
+    {
+      "id": "toa",
+      "name": "source_to_a_toa",
+      "path": "resources/source_source_to_a_toa.rpg",
+      "updated_at": "2025-01-10T08:05:38.932341"
+    },
+    {
+      "id": "478ddfea-e510-4eee-aa71-4505c47446b4",
+      "name": "Songal's Elemental Suffusion",
+      "path": "resources/spell_songal_s_elemental_suffusion_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:54:26.928510"
+    },
+    {
+      "id": "fog_cloud",
+      "name": "Fog Cloud",
+      "path": "resources/spell_fog_cloud_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.612542"
+    },
+    {
+      "id": "project_image",
+      "name": "Project Image",
+      "path": "resources/spell_project_image_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.645041"
+    },
+    {
+      "id": "teleportation_circle",
+      "name": "Teleportation Circle",
+      "path": "resources/spell_teleportation_circle_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664531"
+    },
+    {
+      "id": "glibness",
+      "name": "Glibness",
+      "path": "resources/spell_glibness_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640109"
+    },
+    {
+      "id": "nathairs_mischief",
+      "name": "Nathair's Mischief",
+      "path": "resources/spell_nathair_s_mischief_ftd.rpg",
+      "updated_at": "2024-12-20T18:50:46.702453"
+    },
+    {
+      "id": "ranger",
+      "name": "Ranger",
+      "path": "resources/class_ranger_phb.rpg",
+      "updated_at": "2025-11-08T19:27:35.545378"
+    },
+    {
+      "id": "psix",
+      "name": "source_psix_psix",
+      "path": "resources/source_source_psix_psix.rpg",
+      "updated_at": "2025-01-10T08:05:38.936668"
+    },
+    {
+      "id": "ea34d2db-16bd-4fad-a33e-ed0917ac5b2b",
+      "name": "Spellfire Spark",
+      "path": "resources/feat_spellfire_spark_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:08:19.959602"
+    },
+    {
+      "id": "gust_of_wind",
+      "name": "Gust of Wind",
+      "path": "resources/spell_gust_of_wind_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655681"
+    },
+    {
+      "id": "hol",
+      "name": "source_ho_l_hol",
+      "path": "resources/source_source_ho_l_hol.rpg",
+      "updated_at": "2025-01-10T08:05:38.933342"
+    },
+    {
+      "id": "c1f5a761-2f5d-4b62-9685-16839c8c7340",
+      "name": "Wardaway",
+      "path": "resources/spell_wardaway_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:59:03.142033"
+    },
+    {
+      "id": "sequester",
+      "name": "Sequester",
+      "path": "resources/spell_sequester_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.645761"
+    },
+    {
+      "id": "commune_with_nature",
+      "name": "Commune with Nature",
+      "path": "resources/spell_commune_with_nature_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.648435"
+    },
+    {
+      "id": "tdcsr",
+      "name": "source_tdcsr_tdcsr",
+      "path": "resources/source_source_tdcsr_tdcsr.rpg",
+      "updated_at": "2025-01-10T08:05:38.936241"
+    },
+    {
+      "id": "mtf",
+      "name": "source_mtf_mtf",
+      "path": "resources/source_source_mtf_mtf.rpg",
+      "updated_at": "2025-01-10T08:05:38.934190"
+    },
+    {
+      "id": "frost_fingers",
+      "name": "Frost Fingers",
+      "path": "resources/spell_frost_fingers_idrotf.rpg",
+      "updated_at": "2024-12-20T18:50:46.701164"
+    },
+    {
+      "id": "modify_memory",
+      "name": "Modify Memory",
+      "path": "resources/spell_modify_memory_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.659219"
+    },
+    {
+      "id": "charger",
+      "name": "Charger",
+      "path": "resources/feat_charger_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.401938"
+    },
+    {
+      "id": "catapult",
+      "name": "Catapult",
+      "path": "resources/spell_catapult_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.669983"
+    },
+    {
+      "id": "hotdq",
+      "name": "source_hot_dq_hotdq",
+      "path": "resources/source_source_hot_dq_hotdq.rpg",
+      "updated_at": "2025-01-10T08:05:38.933440"
+    },
+    {
+      "id": "aganazzars_scorcher",
+      "name": "Aganazzar's Scorcher",
+      "path": "resources/spell_aganazzar_s_scorcher_aag.rpg",
+      "updated_at": "2024-12-20T18:50:46.687516"
+    },
+    {
+      "id": "scorching_ray",
+      "name": "Scorching Ray",
+      "path": "resources/spell_scorching_ray_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.662918"
+    },
+    {
+      "id": "color_spray",
+      "name": "Color Spray",
+      "path": "resources/spell_color_spray_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.607263"
+    },
+    {
+      "id": "polymorph",
+      "name": "Polymorph",
+      "path": "resources/spell_polymorph_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.661914"
+    },
+    {
+      "id": "eb9b8c22-6c9a-408c-81a3-f8cbdfefb5ae",
+      "name": "Martial Weapon Training",
+      "path": "resources/feat_martial_weapon_training_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.686634"
+    },
+    {
+      "id": "mass_suggestion",
+      "name": "Mass Suggestion",
+      "path": "resources/spell_mass_suggestion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.658770"
+    },
+    {
+      "id": "0eccb53f-dfdc-43c4-92e5-4bc7bb78f108",
+      "name": "Genie Touched",
+      "path": "resources/background_genie_touched_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:33:40.489478"
+    },
+    {
+      "id": "wizard",
+      "name": "Wizard",
+      "path": "resources/class_wizard_phb.rpg",
+      "updated_at": "2025-11-08T19:30:44.199657"
+    },
+    {
+      "id": "astral_projection",
+      "name": "Astral Projection",
+      "path": "resources/spell_astral_projection_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.638776"
+    },
+    {
+      "id": "8b4ddba7-4136-4bb5-874c-246a3c7d6696",
+      "name": "Boon of Fate",
+      "path": "resources/feat_boon_of_fate_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.693193"
+    },
+    {
+      "id": "darkness",
+      "name": "Darkness",
+      "path": "resources/spell_darkness_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.637917"
+    },
+    {
+      "id": "create_or_destroy_water",
+      "name": "Create or Destroy Water",
+      "path": "resources/spell_create_or_destroy_water_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.608108"
+    },
+    {
+      "id": "command",
+      "name": "Command",
+      "path": "resources/spell_command_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.607575"
+    },
+    {
+      "id": "sentinel",
+      "name": "Sentinel",
+      "path": "resources/feat_sentinel_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.421613"
+    },
+    {
+      "id": "silence",
+      "name": "Silence",
+      "path": "resources/spell_silence_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.626684"
+    },
+    {
+      "id": "calm_emotions",
+      "name": "Calm Emotions",
+      "path": "resources/spell_calm_emotions_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.625927"
+    },
+    {
+      "id": "creation",
+      "name": "Creation",
+      "path": "resources/spell_creation_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.650171"
+    },
+    {
+      "id": "daylight",
+      "name": "Daylight",
+      "path": "resources/spell_daylight_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.631207"
+    },
+    {
+      "id": "summon_elemental",
+      "name": "Summon Elemental",
+      "path": "resources/spell_summon_elemental_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.697273"
+    },
+    {
+      "id": "infestation",
+      "name": "Infestation",
+      "path": "resources/spell_infestation_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.616980"
+    },
+    {
+      "id": "alert",
+      "name": "Alert",
+      "path": "resources/feat_alert_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.404361"
+    },
+    {
+      "id": "passwall",
+      "name": "Passwall",
+      "path": "resources/spell_passwall_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.661130"
+    },
+    {
+      "id": "chain_lightning",
+      "name": "Chain Lightning",
+      "path": "resources/spell_chain_lightning_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.647285"
+    },
+    {
+      "id": "heroism",
+      "name": "Heroism",
+      "path": "resources/spell_heroism_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.615589"
+    },
+    {
+      "id": "earthquake",
+      "name": "Earthquake",
+      "path": "resources/spell_earthquake_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.639560"
+    },
+    {
+      "id": "conjure_volley",
+      "name": "Conjure Volley",
+      "path": "resources/spell_conjure_volley_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.649223"
+    },
+    {
+      "id": "da2d79f3-b3b8-4a40-a5ec-0070a1b67bcb",
+      "name": "Yolande's Regal Presence",
+      "path": "resources/spell_yolande_s_regal_presence_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.625061"
+    },
+    {
+      "id": "sickening_radiance",
+      "name": "Sickening Radiance",
+      "path": "resources/spell_sickening_radiance_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.690200"
+    },
+    {
+      "id": "green-flame_blade",
+      "name": "Green-Flame Blade",
+      "path": "resources/spell_green_flame_blade_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.695285"
+    },
+    {
+      "id": "a9eaeb01-29b1-4e25-b301-90a8f027dce5",
+      "name": "Boon of the Bright Sun",
+      "path": "resources/feat_boon_of_the_bright_sun_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:05:12.549832"
+    },
+    {
+      "id": "mending",
+      "name": "Mending",
+      "path": "resources/spell_mending_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.618748"
+    },
+    {
+      "id": "bfd8d876-5850-4570-9546-37afcb9e47aa",
+      "name": "Spellfire Storm",
+      "path": "resources/spell_spellfire_storm_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:56:55.469035"
+    },
+    {
+      "id": "burning_hands",
+      "name": "Burning Hands",
+      "path": "resources/spell_burning_hands_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.605891"
+    },
+    {
+      "id": "wristpocket",
+      "name": "Wristpocket",
+      "path": "resources/spell_wristpocket_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.700930"
+    },
+    {
+      "id": "aid",
+      "name": "Aid",
+      "path": "resources/spell_aid_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.625240"
+    },
+    {
+      "id": "finger_of_death",
+      "name": "Finger of Death",
+      "path": "resources/spell_finger_of_death_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.644338"
+    },
+    {
+      "id": "lmop",
+      "name": "source_lmo_p_lmop",
+      "path": "resources/source_source_lmo_p_lmop.rpg",
+      "updated_at": "2025-01-10T08:05:38.933858"
+    },
+    {
+      "id": "fey_touched__tce_",
+      "name": "Fey Touched",
+      "path": "resources/feat_fey_touched_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.411093"
+    },
+    {
+      "id": "shield_master",
+      "name": "Shield Master",
+      "path": "resources/feat_shield_master_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.412198"
+    },
+    {
+      "id": "investiture_of_wind",
+      "name": "Investiture of Wind",
+      "path": "resources/spell_investiture_of_wind_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.671900"
+    },
+    {
+      "id": "resurrection",
+      "name": "Resurrection",
+      "path": "resources/spell_resurrection_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.645539"
+    },
+    {
+      "id": "flesh_to_stone",
+      "name": "Flesh to Stone",
+      "path": "resources/spell_flesh_to_stone_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.653858"
+    },
+    {
+      "id": "infernal_calling",
+      "name": "Infernal Calling",
+      "path": "resources/spell_infernal_calling_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.691084"
+    },
+    {
+      "id": "cone_of_cold",
+      "name": "Cone of Cold",
+      "path": "resources/spell_cone_of_cold_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.648718"
+    },
+    {
+      "id": "070a24e9-6cf5-48c1-8d7e-6da14c5a2609",
+      "name": "Blade of Disaster",
+      "path": "resources/spell_blade_of_disaster_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:39:07.793557"
+    },
+    {
+      "id": "erlw",
+      "name": "source_erlw_erlw",
+      "path": "resources/source_source_erlw_erlw.rpg",
+      "updated_at": "2025-01-10T08:05:38.932931"
+    },
+    {
+      "id": "conjure_elemental",
+      "name": "Conjure Elemental",
+      "path": "resources/spell_conjure_elemental_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.648943"
+    },
+    {
+      "id": "psychic_scream",
+      "name": "Psychic Scream",
+      "path": "resources/spell_psychic_scream_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.694651"
+    },
+    {
+      "id": "magic_circle",
+      "name": "Magic Circle",
+      "path": "resources/spell_magic_circle_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.633227"
+    },
+    {
+      "id": "motivational_speech",
+      "name": "Motivational Speech",
+      "path": "resources/spell_motivational_speech_ai.rpg",
+      "updated_at": "2024-12-20T18:50:46.688807"
+    },
+    {
+      "id": "shapechange",
+      "name": "Shapechange",
+      "path": "resources/spell_shapechange_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.641740"
+    },
+    {
+      "id": "8fc25d13-c5ec-42ea-9be9-d318d090562e",
+      "name": "Purple Dragon Rook",
+      "path": "resources/feat_purple_dragon_rook_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:55:32.110537"
+    },
+    {
+      "id": "sharpshooter",
+      "name": "Sharpshooter",
+      "path": "resources/feat_sharpshooter_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.400617"
+    },
+    {
+      "id": "raise_dead",
+      "name": "Raise Dead",
+      "path": "resources/spell_raise_dead_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.662156"
+    },
+    {
+      "id": "absorb_elements",
+      "name": "Absorb Elements",
+      "path": "resources/spell_absorb_elements_aag.rpg",
+      "updated_at": "2024-12-20T18:50:46.669078"
+    },
+    {
+      "id": "dsotdq",
+      "name": "source_dsot_dq_dsotdq",
+      "path": "resources/source_source_dsot_dq_dsotdq.rpg",
+      "updated_at": "2025-01-10T08:05:38.931212"
+    },
+    {
+      "id": "f9d1a977-a27b-4818-8ed5-ce8d7be6572a",
+      "name": "Fairy Trickster",
+      "path": "resources/feat_fairy_trickster_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:09:56.074696"
+    },
+    {
+      "id": "418afc6d-c9e5-49e5-9697-c6dd1ce20466",
+      "name": "Ability Score Improvement",
+      "path": "resources/feat_ability_score_improvement_phb.rpg",
+      "updated_at": "2025-04-13T19:50:46.626195"
+    },
+    {
+      "id": "drawmijs_instant_summons",
+      "name": "Drawmij's Instant Summons",
+      "path": "resources/spell_drawmij_s_instant_summons_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.691915"
+    },
+    {
+      "id": "b50a76aa-d2c5-4c0e-afcc-5996a8c32106",
+      "name": "Scribe",
+      "path": "resources/background_scribe_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.721303"
+    },
+    {
+      "id": "spirit_guardians",
+      "name": "Spirit Guardians",
+      "path": "resources/spell_spirit_guardians_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.635910"
+    },
+    {
+      "id": "8f205fae-3216-4394-b3ef-c5db60ac959f",
+      "name": "Tasha's Bubbling Cauldron",
+      "path": "resources/spell_tasha_s_bubbling_cauldron_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.622967"
+    },
+    {
+      "id": "summon_undead",
+      "name": "Summon Undead",
+      "path": "resources/spell_summon_undead_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.697947"
+    },
+    {
+      "id": "fire_shield",
+      "name": "Fire Shield",
+      "path": "resources/spell_fire_shield_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.653014"
+    },
+    {
+      "id": "flaming_sphere",
+      "name": "Flaming Sphere",
+      "path": "resources/spell_flaming_sphere_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.653675"
+    },
+    {
+      "id": "mislead",
+      "name": "Mislead",
+      "path": "resources/spell_mislead_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.659006"
+    },
+    {
+      "id": "light",
+      "name": "Light",
+      "path": "resources/spell_light_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.617630"
+    },
+    {
+      "id": "planar_binding",
+      "name": "Planar Binding",
+      "path": "resources/spell_planar_binding_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.661785"
+    },
+    {
+      "id": "enervation",
+      "name": "Enervation",
+      "path": "resources/spell_enervation_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.679714"
+    },
+    {
+      "id": "af7ab537-fc7c-4bdb-9f44-ed049905ae26",
+      "name": "Magic Initiate (Wizard)",
+      "path": "resources/feat_magic_initiate_wizard_phb.rpg",
+      "updated_at": "2025-11-08T18:33:14.334992"
+    },
+    {
+      "id": "protection_from_poison",
+      "name": "Protection from Poison",
+      "path": "resources/spell_protection_from_poison_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.662272"
+    },
+    {
+      "id": "circle_of_death",
+      "name": "Circle of Death",
+      "path": "resources/spell_circle_of_death_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.647872"
+    },
+    {
+      "id": "ditlcot",
+      "name": "source_dit_lco_t_ditlcot",
+      "path": "resources/source_source_dit_lco_t_ditlcot.rpg",
+      "updated_at": "2025-01-10T08:05:38.931121"
+    },
+    {
+      "id": "cleric",
+      "name": "Cleric",
+      "path": "resources/class_cleric_phb.rpg",
+      "updated_at": "2025-11-08T19:16:27.467489"
+    },
+    {
+      "id": "frostbite",
+      "name": "Frostbite",
+      "path": "resources/spell_frostbite_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.668016"
+    },
+    {
+      "id": "hellish_rebuke",
+      "name": "Hellish Rebuke",
+      "path": "resources/spell_hellish_rebuke_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.614542"
+    },
+    {
+      "id": "7991bcc4-e1f8-4e02-8aba-ee5295a835bd",
+      "name": "Boon of Skill",
+      "path": "resources/feat_boon_of_skill_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.742167"
+    },
+    {
+      "id": "swift_quiver",
+      "name": "Swift Quiver",
+      "path": "resources/spell_swift_quiver_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664325"
+    },
+    {
+      "id": "vitriolic_sphere",
+      "name": "Vitriolic Sphere",
+      "path": "resources/spell_vitriolic_sphere_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.673642"
+    },
+    {
+      "id": "psd",
+      "name": "source_psd_psd",
+      "path": "resources/source_source_psd_psd.rpg",
+      "updated_at": "2025-01-10T08:05:38.936777"
+    },
+    {
+      "id": "6c223bee-180d-4053-975c-21cacdd8afa3",
+      "name": "Acolyte",
+      "path": "resources/background_acolyte_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.744377"
+    },
+    {
+      "id": "detect_magic",
+      "name": "Detect Magic",
+      "path": "resources/spell_detect_magic_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.608985"
+    },
+    {
+      "id": "dissonant_whispers",
+      "name": "Dissonant Whispers",
+      "path": "resources/spell_dissonant_whispers_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.609851"
+    },
+    {
+      "id": "hypnotic_pattern",
+      "name": "Hypnotic Pattern",
+      "path": "resources/spell_hypnotic_pattern_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.632806"
+    },
+    {
+      "id": "telepathic__tce_",
+      "name": "Telepathic",
+      "path": "resources/feat_telepathic_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.408681"
+    },
+    {
+      "id": "wbtw",
+      "name": "source_wbt_w_wbtw",
+      "path": "resources/source_source_wbt_w_wbtw.rpg",
+      "updated_at": "2025-01-10T08:05:38.930522"
+    },
+    {
+      "id": "animal_friendship",
+      "name": "Animal Friendship",
+      "path": "resources/spell_animal_friendship_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.604570"
+    },
+    {
+      "id": "animate_objects",
+      "name": "Animate Objects",
+      "path": "resources/spell_animate_objects_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646575"
+    },
+    {
+      "id": "animate_dead",
+      "name": "Animate Dead",
+      "path": "resources/spell_animate_dead_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.627288"
+    },
+    {
+      "id": "dimension_door",
+      "name": "Dimension Door",
+      "path": "resources/spell_dimension_door_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.643955"
+    },
+    {
+      "id": "cf856e6f-0a64-480c-a01e-ff0d02c4c0ff",
+      "name": "Merchant",
+      "path": "resources/background_merchant_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.750253"
+    },
+    {
+      "id": "7abc8c2d-fa1c-4a9d-b86f-ac4b38344aa5",
+      "name": "Blessed Warrior",
+      "path": "resources/feat_blessed_warrior_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.751163"
+    },
+    {
+      "id": "borrowed_knowledge",
+      "name": "Borrowed Knowledge",
+      "path": "resources/spell_borrowed_knowledge_scc.rpg",
+      "updated_at": "2024-12-20T18:50:46.703878"
+    },
+    {
+      "id": "fly",
+      "name": "Fly",
+      "path": "resources/spell_fly_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.632384"
+    },
+    {
+      "id": "646332aa-e5f1-47a3-b4fa-4b57d2b062f7",
+      "name": "Cultist",
+      "path": "resources/background_cultist_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:45:55.204796"
+    },
+    {
+      "id": "psz",
+      "name": "source_psz_psz",
+      "path": "resources/source_source_psz_psz.rpg",
+      "updated_at": "2025-01-10T08:05:38.936507"
+    },
+    {
+      "id": "encode_thoughts",
+      "name": "Encode Thoughts",
+      "path": "resources/spell_encode_thoughts_ggr.rpg",
+      "updated_at": "2024-12-20T18:50:46.701316"
+    },
+    {
+      "id": "mm",
+      "name": "source_mm24_mm",
+      "path": "resources/source_source_mm24_mm.rpg",
+      "updated_at": "2025-01-10T08:05:38.929797"
+    },
+    {
+      "id": "web",
+      "name": "Web",
+      "path": "resources/spell_web_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.666256"
+    },
+    {
+      "id": "mage_armor",
+      "name": "Mage Armor",
+      "path": "resources/spell_mage_armor_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.618164"
+    },
+    {
+      "id": "e4452763-e684-4223-9e8f-5e46fc7941a9",
+      "name": "Guide",
+      "path": "resources/background_guide_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.756165"
+    },
+    {
+      "id": "transport_via_plants",
+      "name": "Transport via Plants",
+      "path": "resources/spell_transport_via_plants_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664622"
+    },
+    {
+      "id": "7d3253b4-4ed0-4305-a398-d7c890c6d926",
+      "name": "Boon of Poison Mastery",
+      "path": "resources/feat_boon_of_poison_mastery_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:03:50.659253"
+    },
+    {
+      "id": "75101eaa-79ec-4965-9376-9be9e4175d04",
+      "name": "Boon of the Soul Drinker",
+      "path": "resources/feat_boon_of_the_soul_drinker_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:05:42.095465"
+    },
+    {
+      "id": "blindness_deafness",
+      "name": "Blindness/Deafness",
+      "path": "resources/spell_blindness_deafness_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.625645"
+    },
+    {
+      "id": "hex",
+      "name": "Hex",
+      "path": "resources/spell_hex_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.615096"
+    },
+    {
+      "id": "tashas_caustic_brew",
+      "name": "Tasha's Caustic Brew",
+      "path": "resources/spell_tasha_s_caustic_brew_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.698389"
+    },
+    {
+      "id": "moderately_armored",
+      "name": "Moderately Armored",
+      "path": "resources/feat_moderately_armored_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.412023"
+    },
+    {
+      "id": "holy_weapon",
+      "name": "Holy Weapon",
+      "path": "resources/spell_holy_weapon_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.701553"
+    },
+    {
+      "id": "7d3f2b6e-120f-49ce-884a-17cd040c462e",
+      "name": "Ice Fisher",
+      "path": "resources/background_ice_fisher_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:36:52.718013"
+    },
+    {
+      "id": "speak_with_animals",
+      "name": "Speak with Animals",
+      "path": "resources/spell_speak_with_animals_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.622967"
+    },
+    {
+      "id": "dc",
+      "name": "source_dc_dc",
+      "path": "resources/source_source_dc_dc.rpg",
+      "updated_at": "2025-01-10T08:05:38.932788"
+    },
+    {
+      "id": "snillocs_snowball_swarm",
+      "name": "Snilloc's Snowball Swarm",
+      "path": "resources/spell_snilloc_s_snowball_swarm_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.682058"
+    },
+    {
+      "id": "dream_of_the_blue_veil",
+      "name": "Dream of the Blue Veil",
+      "path": "resources/spell_dream_of_the_blue_veil_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.695079"
+    },
+    {
+      "id": "thunderous_smite",
+      "name": "Thunderous Smite",
+      "path": "resources/spell_thunderous_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.623625"
+    },
+    {
+      "id": "wdh",
+      "name": "source_wdh_wdh",
+      "path": "resources/source_source_wdh_wdh.rpg",
+      "updated_at": "2025-01-10T08:05:38.935425"
+    },
+    {
+      "id": "5c052344-c8fe-4e9c-afdd-f86f16309d6a",
+      "name": "Boon of the Night Spirit",
+      "path": "resources/feat_boon_of_the_night_spirit_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.765747"
+    },
+    {
+      "id": "d860a324-c300-43b9-81c4-05976e07ce26",
+      "name": "Divine Smite",
+      "path": "resources/spell_divine_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.650783"
+    },
+    {
+      "id": "beast_bond",
+      "name": "Beast Bond",
+      "path": "resources/spell_beast_bond_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.669241"
+    },
+    {
+      "id": "fbe80d94-5b26-4354-baf3-63db1be736a4",
+      "name": "Boon of Spell Recall",
+      "path": "resources/feat_boon_of_spell_recall_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.767727"
+    },
+    {
+      "id": "find_steed",
+      "name": "Find Steed",
+      "path": "resources/spell_find_steed_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.652579"
+    },
+    {
+      "id": "ice_storm",
+      "name": "Ice Storm",
+      "path": "resources/spell_ice_storm_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.656838"
+    },
+    {
+      "id": "99ae4bdf-16bb-4af1-a973-f37304658053",
+      "name": "Boon of Fortitude",
+      "path": "resources/feat_boon_of_fortitude_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.769740"
+    },
+    {
+      "id": "guiding_bolt",
+      "name": "Guiding Bolt",
+      "path": "resources/spell_guiding_bolt_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.613363"
+    },
+    {
+      "id": "gift_of_gab",
+      "name": "Gift of Gab",
+      "path": "resources/spell_gift_of_gab_ai.rpg",
+      "updated_at": "2024-12-20T18:50:46.687667"
+    },
+    {
+      "id": "disguise_self",
+      "name": "Disguise Self",
+      "path": "resources/spell_disguise_self_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.609328"
+    },
+    {
+      "id": "flame_strike",
+      "name": "Flame Strike",
+      "path": "resources/spell_flame_strike_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.653452"
+    },
+    {
+      "id": "c8e5acb6-6684-4b0f-8a54-acc7cd19988e",
+      "name": "Jallarzi's Storm of Radiance",
+      "path": "resources/spell_jallarzi_s_storm_of_radiance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.688443"
+    },
+    {
+      "id": "gate",
+      "name": "Gate",
+      "path": "resources/spell_gate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.639998"
+    },
+    {
+      "id": "time_stop",
+      "name": "Time Stop",
+      "path": "resources/spell_time_stop_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.642314"
+    },
+    {
+      "id": "vortex_warp",
+      "name": "Vortex Warp",
+      "path": "resources/spell_vortex_warp_scc.rpg",
+      "updated_at": "2024-12-20T18:50:46.704167"
+    },
+    {
+      "id": "booming_blade",
+      "name": "Booming Blade",
+      "path": "resources/spell_booming_blade_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.674686"
+    },
+    {
+      "id": "wall_of_sand",
+      "name": "Wall of Sand",
+      "path": "resources/spell_wall_of_sand_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.673810"
+    },
+    {
+      "id": "resistance",
+      "name": "Resistance",
+      "path": "resources/spell_resistance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.620800"
+    },
+    {
+      "id": "bane",
+      "name": "Bane",
+      "path": "resources/spell_bane_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.605174"
+    },
+    {
+      "id": "time_ravage",
+      "name": "Time Ravage",
+      "path": "resources/spell_time_ravage_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.700819"
+    },
+    {
+      "id": "spare_the_dying",
+      "name": "Spare the Dying",
+      "path": "resources/spell_spare_the_dying_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.622810"
+    },
+    {
+      "id": "mass_healing_word",
+      "name": "Mass Healing Word",
+      "path": "resources/spell_mass_healing_word_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.633544"
+    },
+    {
+      "id": "greater_invisibility",
+      "name": "Greater Invisibility",
+      "path": "resources/spell_greater_invisibility_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655138"
+    },
+    {
+      "id": "forcecage",
+      "name": "Forcecage",
+      "path": "resources/spell_forcecage_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.644652"
+    },
+    {
+      "id": "incendiary_cloud",
+      "name": "Incendiary Cloud",
+      "path": "resources/spell_incendiary_cloud_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640453"
+    },
+    {
+      "id": "conjure_celestial",
+      "name": "Conjure Celestial",
+      "path": "resources/spell_conjure_celestial_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.643570"
+    },
+    {
+      "id": "acid_splash",
+      "name": "Acid Splash",
+      "path": "resources/spell_acid_splash_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.603383"
+    },
+    {
+      "id": "banishing_smite",
+      "name": "Banishing Smite",
+      "path": "resources/spell_banishing_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.647107"
+    },
+    {
+      "id": "tce",
+      "name": "source_tce_tce",
+      "path": "resources/source_source_tce_tce.rpg",
+      "updated_at": "2025-01-10T08:05:38.929419"
+    },
+    {
+      "id": "haste",
+      "name": "Haste",
+      "path": "resources/spell_haste_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.632677"
+    },
+    {
+      "id": "tashas_hideous_laughter",
+      "name": "Tasha's Hideous Laughter",
+      "path": "resources/spell_tasha_s_hideous_laughter_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.636934"
+    },
+    {
+      "id": "shatter",
+      "name": "Shatter",
+      "path": "resources/spell_shatter_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663465"
+    },
+    {
+      "id": "gravity_fissure",
+      "name": "Gravity Fissure",
+      "path": "resources/spell_gravity_fissure_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699368"
+    },
+    {
+      "id": "ice_knife",
+      "name": "Ice Knife",
+      "path": "resources/spell_ice_knife_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.669367"
+    },
+    {
+      "id": "delayed_blast_fireball",
+      "name": "Delayed Blast Fireball",
+      "path": "resources/spell_delayed_blast_fireball_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.643733"
+    },
+    {
+      "id": "telekinetic__tce_",
+      "name": "Telekinetic",
+      "path": "resources/feat_telekinetic_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.414010"
+    },
+    {
+      "id": "antilife_shell",
+      "name": "Antilife Shell",
+      "path": "resources/spell_antilife_shell_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646759"
+    },
+    {
+      "id": "spirit_shroud__ua_",
+      "name": "Spirit Shroud",
+      "path": "resources/spell_spirit_shroud_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.689040"
+    },
+    {
+      "id": "major_image",
+      "name": "Major Image",
+      "path": "resources/spell_major_image_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.633377"
+    },
+    {
+      "id": "aag",
+      "name": "source_aag_aag",
+      "path": "resources/source_source_aag_aag.rpg",
+      "updated_at": "2025-01-10T08:05:38.930369"
+    },
+    {
+      "id": "ftd",
+      "name": "source_ftd_ftd",
+      "path": "resources/source_source_ftd_ftd.rpg",
+      "updated_at": "2025-01-10T08:05:38.930052"
+    },
+    {
+      "id": "invisibility",
+      "name": "Invisibility",
+      "path": "resources/spell_invisibility_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646436"
+    },
+    {
+      "id": "darkvision",
+      "name": "Darkvision",
+      "path": "resources/spell_darkvision_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.638036"
+    },
+    {
+      "id": "temple_of_the_gods",
+      "name": "Temple of the Gods",
+      "path": "resources/spell_temple_of_the_gods_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.693528"
+    },
+    {
+      "id": "qftis",
+      "name": "source_qft_is_qftis",
+      "path": "resources/source_source_qft_is_qftis.rpg",
+      "updated_at": "2025-01-10T08:05:38.931706"
+    },
+    {
+      "id": "dancing_lights",
+      "name": "Dancing Lights",
+      "path": "resources/spell_dancing_lights_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.608649"
+    },
+    {
+      "id": "73341675-6456-4ae3-aed1-7c4cb8c9ee48",
+      "name": "Purple Dragon Commandant",
+      "path": "resources/feat_purple_dragon_commandant_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:07:49.859097"
+    },
+    {
+      "id": "aura_of_vitality",
+      "name": "Aura of Vitality",
+      "path": "resources/spell_aura_of_vitality_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.628015"
+    },
+    {
+      "id": "wall_of_force",
+      "name": "Wall of Force",
+      "path": "resources/spell_wall_of_force_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.665493"
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "path": "resources/spell_sleep_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.622568"
+    },
+    {
+      "id": "arcane_lock",
+      "name": "Arcane Lock",
+      "path": "resources/spell_arcane_lock_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634054"
+    },
+    {
+      "id": "comprehend_languages",
+      "name": "Comprehend Languages",
+      "path": "resources/spell_comprehend_languages_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.607929"
+    },
+    {
+      "id": "create_homunculus",
+      "name": "Create Homunculus",
+      "path": "resources/spell_create_homunculus_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.691750"
+    },
+    {
+      "id": "knock",
+      "name": "Knock",
+      "path": "resources/spell_knock_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657240"
+    },
+    {
+      "id": "shadow_touched__tce_",
+      "name": "Shadow Touched",
+      "path": "resources/feat_shadow_touched_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.423860"
+    },
+    {
+      "id": "air_bubble",
+      "name": "Air Bubble",
+      "path": "resources/spell_air_bubble_aag.rpg",
+      "updated_at": "2024-12-20T18:50:46.704451"
+    },
+    {
+      "id": "7aef6870-ed3d-40bb-9b9d-02c4fd7569ad",
+      "name": "Moonwell Pilgrim",
+      "path": "resources/background_moonwell_pilgrim_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:38:36.274811"
+    },
+    {
+      "id": "druid",
+      "name": "Druid",
+      "path": "resources/class_druid_phb.rpg",
+      "updated_at": "2024-12-27T17:49:29.409576"
+    },
+    {
+      "id": "magic_stone",
+      "name": "Magic Stone",
+      "path": "resources/spell_magic_stone_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.668254"
+    },
+    {
+      "id": "control_weather",
+      "name": "Control Weather",
+      "path": "resources/spell_control_weather_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.639053"
+    },
+    {
+      "id": "shillelagh",
+      "name": "Shillelagh",
+      "path": "resources/spell_shillelagh_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.621928"
+    },
+    {
+      "id": "1f3922f0-33bf-4644-bb0e-8067b1a10e14",
+      "name": "Backlash",
+      "path": "resources/spell_backlash_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:37:56.467985"
+    },
+    {
+      "id": "pabtso",
+      "name": "source_pa_btso_pabtso",
+      "path": "resources/source_source_pa_btso_pabtso.rpg",
+      "updated_at": "2025-01-10T08:05:38.932084"
+    },
+    {
+      "id": "barbarian",
+      "name": "Barbarian",
+      "path": "resources/class_barbarian_phb.rpg",
+      "updated_at": "2024-12-27T17:49:29.441904"
+    },
+    {
+      "id": "rot",
+      "name": "source_ro_t_rot",
+      "path": "resources/source_source_ro_t_rot.rpg",
+      "updated_at": "2025-01-10T08:05:38.934747"
+    },
+    {
+      "id": "mordenkainens_faithful_hound",
+      "name": "Mordenkainen's Faithful Hound",
+      "path": "resources/spell_mordenkainen_s_faithful_hound_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.668604"
+    },
+    {
+      "id": "cause_fear",
+      "name": "Cause Fear",
+      "path": "resources/spell_cause_fear_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.679582"
+    },
+    {
+      "id": "e84f0bfd-75bc-48ce-aa23-1310e96beae6",
+      "name": "Wayfarer",
+      "path": "resources/background_wayfarer_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.817294"
+    },
+    {
+      "id": "a53f545c-2d0b-4cb0-97c9-0cd1ea2d80ba",
+      "name": "Flaming Fist Mercenary",
+      "path": "resources/background_flaming_fist_mercenary_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:31:37.883298"
+    },
+    {
+      "id": "df715154-049a-49c8-ae39-18802f175f67",
+      "name": "Charlatan",
+      "path": "resources/background_charlatan_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.820173"
+    },
+    {
+      "id": "b6aa3970-6093-4447-b057-d06bcb1221fd",
+      "name": "Blind Fighting",
+      "path": "resources/feat_blind_fighting_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.821136"
+    },
+    {
+      "id": "banishment",
+      "name": "Banishment",
+      "path": "resources/spell_banishment_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.628185"
+    },
+    {
+      "id": "tiny_servant",
+      "name": "Tiny Servant",
+      "path": "resources/spell_tiny_servant_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.681726"
+    },
+    {
+      "id": "wall_of_water",
+      "name": "Wall of Water",
+      "path": "resources/spell_wall_of_water_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.672862"
+    },
+    {
+      "id": "contagion",
+      "name": "Contagion",
+      "path": "resources/spell_contagion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.649593"
+    },
+    {
+      "id": "dark_star",
+      "name": "Dark Star",
+      "path": "resources/spell_dark_star_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699024"
+    },
+    {
+      "id": "piercer__tce_",
+      "name": "Piercer",
+      "path": "resources/feat_piercer_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.424985"
+    },
+    {
+      "id": "ray_of_sickness",
+      "name": "Ray of Sickness",
+      "path": "resources/spell_ray_of_sickness_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.620437"
+    },
+    {
+      "id": "lightning_lure",
+      "name": "Lightning Lure",
+      "path": "resources/spell_lightning_lure_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.695917"
+    },
+    {
+      "id": "poisoner__tce_",
+      "name": "Poisoner",
+      "path": "resources/feat_poisoner_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.416153"
+    },
+    {
+      "id": "otherworldly_form__ua_",
+      "name": "Otherworldly Form",
+      "path": "resources/spell_otherworldly_form_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.692233"
+    },
+    {
+      "id": "elemental_bane",
+      "name": "Elemental Bane",
+      "path": "resources/spell_elemental_bane_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.671058"
+    },
+    {
+      "id": "b4385ce6-0aea-4009-9d94-305038b3f6f3",
+      "name": "Boon of Bountiful Health",
+      "path": "resources/feat_boon_of_bountiful_health_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:01:39.372106"
+    },
+    {
+      "id": "compelled_duel",
+      "name": "Compelled Duel",
+      "path": "resources/spell_compelled_duel_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.607758"
+    },
+    {
+      "id": "entangle",
+      "name": "Entangle",
+      "path": "resources/spell_entangle_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.611260"
+    },
+    {
+      "id": "homebrew",
+      "name": "source_homebrew_homebrew",
+      "path": "resources/source_source_homebrew_homebrew.rpg",
+      "updated_at": "2025-01-10T08:05:38.930210"
+    },
+    {
+      "id": "tensers_transformation",
+      "name": "Tenser's Transformation",
+      "path": "resources/spell_tenser_s_transformation_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.693036"
+    },
+    {
+      "id": "misty_step",
+      "name": "Misty Step",
+      "path": "resources/spell_misty_step_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.659108"
+    },
+    {
+      "id": "d4d23bc7-4ec2-4fd5-9489-bd07e54dfff4",
+      "name": "Zhentarim Mercenary",
+      "path": "resources/background_zhentarim_mercenary_phb.rpg",
+      "updated_at": "2025-11-08T18:58:35.805569"
+    },
+    {
+      "id": "1aeb963b-3713-471c-a62e-45c858208cb0",
+      "name": "Alustriel's Mooncloak",
+      "path": "resources/spell_alustriel_s_mooncloak_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:36:40.354214"
+    },
+    {
+      "id": "fireball",
+      "name": "Fireball",
+      "path": "resources/spell_fireball_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.632149"
+    },
+    {
+      "id": "mpmm",
+      "name": "source_mpmm_mpmm",
+      "path": "resources/source_source_mpmm_mpmm.rpg",
+      "updated_at": "2025-01-10T08:05:38.933954"
+    },
+    {
+      "id": "tether_essence",
+      "name": "Tether Essence",
+      "path": "resources/spell_tether_essence_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.700718"
+    },
+    {
+      "id": "alter_self",
+      "name": "Alter Self",
+      "path": "resources/spell_alter_self_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.633887"
+    },
+    {
+      "id": "skywrite",
+      "name": "Skywrite",
+      "path": "resources/spell_skywrite_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.667327"
+    },
+    {
+      "id": "tidal_wave",
+      "name": "Tidal Wave",
+      "path": "resources/spell_tidal_wave_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.672479"
+    },
+    {
+      "id": "sdw",
+      "name": "source_sdw_sdw",
+      "path": "resources/source_source_sdw_sdw.rpg",
+      "updated_at": "2025-01-10T08:05:38.934818"
+    },
+    {
+      "id": "athlete",
+      "name": "Athlete",
+      "path": "resources/feat_athlete_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.419117"
+    },
+    {
+      "id": "create_magen",
+      "name": "Create Magen",
+      "path": "resources/spell_create_magen_idrotf.rpg",
+      "updated_at": "2024-12-20T18:50:46.701011"
+    },
+    {
+      "id": "contingency",
+      "name": "Contingency",
+      "path": "resources/spell_contingency_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.649741"
+    },
+    {
+      "id": "rope_trick",
+      "name": "Rope Trick",
+      "path": "resources/spell_rope_trick_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.662671"
+    },
+    {
+      "id": "e88c7cdd-e7aa-493b-a70c-1e6cbe940eef",
+      "name": "Boon of Desperate Resilience",
+      "path": "resources/feat_boon_of_desperate_resilience_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:02:17.176830"
+    },
+    {
+      "id": "spiritual_weapon",
+      "name": "Spiritual Weapon",
+      "path": "resources/spell_spiritual_weapon_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.626869"
+    },
+    {
+      "id": "galders_speedy_courier",
+      "name": "Galder's Speedy Courier",
+      "path": "resources/spell_galder_s_speedy_courier_llok.rpg",
+      "updated_at": "2024-12-20T18:50:46.689957"
+    },
+    {
+      "id": "crown_of_stars",
+      "name": "Crown of Stars",
+      "path": "resources/spell_crown_of_stars_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.683256"
+    },
+    {
+      "id": "destructive_wave",
+      "name": "Destructive Wave",
+      "path": "resources/spell_destructive_wave_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.650319"
+    },
+    {
+      "id": "9bcf7df1-0c98-4f8b-9a3f-245c5eec03bf",
+      "name": "Arcane Vigor",
+      "path": "resources/spell_arcane_vigor_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.603383"
+    },
+    {
+      "id": "e3ee32b6-e4e7-4eb2-9a7a-ddd59659c42f",
+      "name": "Tyro of the Gauntlet",
+      "path": "resources/feat_tyro_of_the_gauntlet_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:50:46.077173"
+    },
+    {
+      "id": "42ff4d5f-53dc-4a24-84b9-19955bc99ea3",
+      "name": "Shadowmasters Exile",
+      "path": "resources/background_shadowmasters_exile_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:43:35.956044"
+    },
+    {
+      "id": "programmed_illusion",
+      "name": "Programmed Illusion",
+      "path": "resources/spell_programmed_illusion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.662034"
+    },
+    {
+      "id": "4c5b59d5-a3bf-47e0-83d3-8bf650bd1486",
+      "name": "Boon of Terror",
+      "path": "resources/feat_boon_of_terror_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:04:34.989369"
+    },
+    {
+      "id": "wish",
+      "name": "Wish",
+      "path": "resources/spell_wish_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.643407"
+    },
+    {
+      "id": "transmute_rock",
+      "name": "Transmute Rock",
+      "path": "resources/spell_transmute_rock_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.672704"
+    },
+    {
+      "id": "shadow_blade",
+      "name": "Shadow Blade",
+      "path": "resources/spell_shadow_blade_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.676495"
+    },
+    {
+      "id": "identify",
+      "name": "Identify",
+      "path": "resources/spell_identify_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.616072"
+    },
+    {
+      "id": "summon_shadow_spirit__ua_",
+      "name": "Summon Shadow Spirit",
+      "path": "resources/spell_summon_shadow_spirit_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.689346"
+    },
+    {
+      "id": "scc",
+      "name": "source_scc_scc",
+      "path": "resources/source_source_scc_scc.rpg",
+      "updated_at": "2025-01-10T08:05:38.930782"
+    },
+    {
+      "id": "sorcerer",
+      "name": "Sorcerer",
+      "path": "resources/class_sorcerer_phb.rpg",
+      "updated_at": "2025-11-08T19:29:04.480473"
+    },
+    {
+      "id": "skilled",
+      "name": "Skilled",
+      "path": "resources/feat_skilled_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.404920"
+    },
+    {
+      "id": "gravity_sinkhole",
+      "name": "Gravity Sinkhole",
+      "path": "resources/spell_gravity_sinkhole_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.699538"
+    },
+    {
+      "id": "chromatic_orb",
+      "name": "Chromatic Orb",
+      "path": "resources/spell_chromatic_orb_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.606879"
+    },
+    {
+      "id": "summon_lesser_demons",
+      "name": "Summon Lesser Demons",
+      "path": "resources/spell_summon_lesser_demons_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.680727"
+    },
+    {
+      "id": "animal_messenger",
+      "name": "Animal Messenger",
+      "path": "resources/spell_animal_messenger_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.625496"
+    },
+    {
+      "id": "mirage_arcane",
+      "name": "Mirage Arcane",
+      "path": "resources/spell_mirage_arcane_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.644763"
+    },
+    {
+      "id": "tashas_otherworldly_guise",
+      "name": "Tasha's Otherworldly Guise",
+      "path": "resources/spell_tasha_s_otherworldly_guise_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.698901"
+    },
+    {
+      "id": "shadow_of_moil",
+      "name": "Shadow of Moil",
+      "path": "resources/spell_shadow_of_moil_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.678729"
+    },
+    {
+      "id": "find_the_path",
+      "name": "Find the Path",
+      "path": "resources/spell_find_the_path_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.652713"
+    },
+    {
+      "id": "power_word_pain",
+      "name": "Power Word Pain",
+      "path": "resources/spell_power_word_pain_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.693372"
+    },
+    {
+      "id": "tofw",
+      "name": "source_to_fw_tofw",
+      "path": "resources/source_source_to_fw_tofw.rpg",
+      "updated_at": "2025-01-10T08:05:38.935252"
+    },
+    {
+      "id": "wall_of_light",
+      "name": "Wall of Light",
+      "path": "resources/spell_wall_of_light_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.682459"
+    },
+    {
+      "id": "blink",
+      "name": "Blink",
+      "path": "resources/spell_blink_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.629435"
+    },
+    {
+      "id": "melfs_acid_arrow",
+      "name": "Melf's Acid Arrow",
+      "path": "resources/spell_melf_s_acid_arrow_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.675436"
+    },
+    {
+      "id": "tftyp",
+      "name": "source_tft_yp_tftyp",
+      "path": "resources/source_source_tft_yp_tftyp.rpg",
+      "updated_at": "2025-01-10T08:05:38.935035"
+    },
+    {
+      "id": "535ad49d-a528-450b-af66-cb33e08ac472",
+      "name": "Street Justice",
+      "path": "resources/feat_street_justice_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:08:34.001001"
+    },
+    {
+      "id": "on_off",
+      "name": "On/Off",
+      "path": "resources/spell_on_off_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.673904"
+    },
+    {
+      "id": "eb",
+      "name": "source_eb_eb",
+      "path": "resources/source_source_eb_eb.rpg",
+      "updated_at": "2025-01-10T08:05:38.928581"
+    },
+    {
+      "id": "warding_wind",
+      "name": "Warding Wind",
+      "path": "resources/spell_warding_wind_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.667557"
+    },
+    {
+      "id": "defensive_duelist",
+      "name": "Defensive Duelist",
+      "path": "resources/feat_defensive_duelist_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.395841"
+    },
+    {
+      "id": "disintegrate",
+      "name": "Disintegrate",
+      "path": "resources/spell_disintegrate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.650532"
+    },
+    {
+      "id": "telekinesis",
+      "name": "Telekinesis",
+      "path": "resources/spell_telekinesis_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664429"
+    },
+    {
+      "id": "rimes_binding_ice",
+      "name": "Rime's Binding Ice",
+      "path": "resources/spell_rime_s_binding_ice_ftd.rpg",
+      "updated_at": "2024-12-20T18:50:46.703646"
+    },
+    {
+      "id": "power_word_stun",
+      "name": "Power Word Stun",
+      "path": "resources/spell_power_word_stun_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.641277"
+    },
+    {
+      "id": "levitate",
+      "name": "Levitate",
+      "path": "resources/spell_levitate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657438"
+    },
+    {
+      "id": "earthbind",
+      "name": "Earthbind",
+      "path": "resources/spell_earthbind_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.669624"
+    },
+    {
+      "id": "mordenkainens_sword",
+      "name": "Mordenkainen's Sword",
+      "path": "resources/spell_mordenkainen_s_sword_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.693208"
+    },
+    {
+      "id": "plant_growth",
+      "name": "Plant Growth",
+      "path": "resources/spell_plant_growth_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634842"
+    },
+    {
+      "id": "summon_celestial",
+      "name": "Summon Celestial",
+      "path": "resources/spell_summon_celestial_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.696932"
+    },
+    {
+      "id": "tensers_floating_disk",
+      "name": "Tenser's Floating Disk",
+      "path": "resources/spell_tenser_s_floating_disk_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.678292"
+    },
+    {
+      "id": "rogue",
+      "name": "Rogue",
+      "path": "resources/class_rogue_phb.rpg",
+      "updated_at": "2024-12-27T17:49:29.555511"
+    },
+    {
+      "id": "304bab0a-6aa2-4036-a96f-0e8aa853a9e0",
+      "name": "Crafter",
+      "path": "resources/feat_crafter_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.899879"
+    },
+    {
+      "id": "evards_black_tentacles",
+      "name": "Evard's Black Tentacles",
+      "path": "resources/spell_evard_s_black_tentacles_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.678016"
+    },
+    {
+      "id": "elemental_adept",
+      "name": "Elemental Adept",
+      "path": "resources/feat_elemental_adept_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.414315"
+    },
+    {
+      "id": "flame_arrows",
+      "name": "Flame Arrows",
+      "path": "resources/spell_flame_arrows_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.671292"
+    },
+    {
+      "id": "call_lightning",
+      "name": "Call Lightning",
+      "path": "resources/spell_call_lightning_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.629630"
+    },
+    {
+      "id": "99445422-30d6-4026-8baf-b350ec102403",
+      "name": "Noble",
+      "path": "resources/background_noble_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.909475"
+    },
+    {
+      "id": "catnap",
+      "name": "Catnap",
+      "path": "resources/spell_catnap_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.681623"
+    },
+    {
+      "id": "eldritch_blast",
+      "name": "Eldritch Blast",
+      "path": "resources/spell_eldritch_blast_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.610486"
+    },
+    {
+      "id": "regenerate",
+      "name": "Regenerate",
+      "path": "resources/spell_regenerate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.645390"
+    },
+    {
+      "id": "warding_bond",
+      "name": "Warding Bond",
+      "path": "resources/spell_warding_bond_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.627137"
+    },
+    {
+      "id": "d8a2cf29-b335-45d2-bebb-1c853a1a90b1",
+      "name": "Emerald Enclave Caretaker",
+      "path": "resources/background_emerald_enclave_caretaker_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:47:30.186477"
+    },
+    {
+      "id": "blinding_smite",
+      "name": "Blinding Smite",
+      "path": "resources/spell_blinding_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.629263"
+    },
+    {
+      "id": "life_transference",
+      "name": "Life Transference",
+      "path": "resources/spell_life_transference_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.682259"
+    },
+    {
+      "id": "3e23920a-46a2-4fc5-bee3-9f74d148ad4a",
+      "name": "Musician",
+      "path": "resources/feat_musician_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.915409"
+    },
+    {
+      "id": "crusher__tce_",
+      "name": "Crusher",
+      "path": "resources/feat_crusher_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.406927"
+    },
+    {
+      "id": "true_seeing",
+      "name": "True Seeing",
+      "path": "resources/spell_true_seeing_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664833"
+    },
+    {
+      "id": "mordenkainens_private_sanctum",
+      "name": "Mordenkainen's Private Sanctum",
+      "path": "resources/spell_mordenkainen_s_private_sanctum_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.668739"
+    },
+    {
+      "id": "enlarge_reduce",
+      "name": "Enlarge/Reduce",
+      "path": "resources/spell_enlarge_reduce_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.651973"
+    },
+    {
+      "id": "9fa03668-f877-4a69-b54d-80e752f538e8",
+      "name": "Boon of Communication",
+      "path": "resources/feat_boon_of_communication_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:01:59.860455"
+    },
+    {
+      "id": "5a01bd0c-d55a-4218-92c8-e393c7bfc041",
+      "name": "Elminster's Effulgent Spheres",
+      "path": "resources/spell_elminster_s_effulgent_spheres_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:45:47.820936"
+    },
+    {
+      "id": "shield_of_faith",
+      "name": "Shield of Faith",
+      "path": "resources/spell_shield_of_faith_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.621380"
+    },
+    {
+      "id": "counterspell",
+      "name": "Counterspell",
+      "path": "resources/spell_counterspell_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.630774"
+    },
+    {
+      "id": "eepc",
+      "name": "source_eepc_eepc",
+      "path": "resources/source_source_eepc_eepc.rpg",
+      "updated_at": "2025-01-10T08:05:38.935871"
+    },
+    {
+      "id": "locate_creature",
+      "name": "Locate Creature",
+      "path": "resources/spell_locate_creature_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657863"
+    },
+    {
+      "id": "power_word_kill",
+      "name": "Power Word Kill",
+      "path": "resources/spell_power_word_kill_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.641168"
+    },
+    {
+      "id": "find_greater_steed",
+      "name": "Find Greater Steed",
+      "path": "resources/spell_find_greater_steed_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.679487"
+    },
+    {
+      "id": "magic_mouth",
+      "name": "Magic Mouth",
+      "path": "resources/spell_magic_mouth_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.658352"
+    },
+    {
+      "id": "word_of_radiance",
+      "name": "Word of Radiance",
+      "path": "resources/spell_word_of_radiance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.701699"
+    },
+    {
+      "id": "230ccb6a-9020-4606-baf9-78a2944cfa17",
+      "name": "Emeral Enclave Fledgling",
+      "path": "resources/feat_emeral_enclave_fledgling_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:47:01.270983"
+    },
+    {
+      "id": "tree_stride",
+      "name": "Tree Stride",
+      "path": "resources/spell_tree_stride_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.664729"
+    },
+    {
+      "id": "water_breathing",
+      "name": "Water Breathing",
+      "path": "resources/spell_water_breathing_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.665919"
+    },
+    {
+      "id": "stinking_cloud",
+      "name": "Stinking Cloud",
+      "path": "resources/spell_stinking_cloud_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.636114"
+    },
+    {
+      "id": "staggering_smite",
+      "name": "Staggering Smite",
+      "path": "resources/spell_staggering_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663873"
+    },
+    {
+      "id": "divination",
+      "name": "Divination",
+      "path": "resources/spell_divination_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.650783"
+    },
+    {
+      "id": "22ce1a64-c297-43e0-881f-3d7279ca4e4b",
+      "name": "Medium Armor Master",
+      "path": "resources/feat_medium_armor_master_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.927279"
+    },
+    {
+      "id": "produce_flame",
+      "name": "Produce Flame",
+      "path": "resources/spell_produce_flame_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.619707"
+    },
+    {
+      "id": "great_weapon_master",
+      "name": "Great Weapon Master",
+      "path": "resources/feat_great_weapon_master_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.405162"
+    },
+    {
+      "id": "scatter",
+      "name": "Scatter",
+      "path": "resources/spell_scatter_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.692355"
+    },
+    {
+      "id": "6177ad5d-8d9f-4681-987e-61bbc7a6c1ee",
+      "name": "Cold Caster",
+      "path": "resources/feat_cold_caster_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:08:57.410693"
+    },
+    {
+      "id": "dominate_beast",
+      "name": "Dominate Beast",
+      "path": "resources/spell_dominate_beast_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.651075"
+    },
+    {
+      "id": "bgdia",
+      "name": "source_bgdia_bgdia",
+      "path": "resources/source_source_bgdia_bgdia.rpg",
+      "updated_at": "2025-01-10T08:05:38.931993"
+    },
+    {
+      "id": "leomunds_secret_chest",
+      "name": "Leomund's Secret Chest",
+      "path": "resources/spell_leomund_s_secret_chest_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.677653"
+    },
+    {
+      "id": "lucky",
+      "name": "Lucky",
+      "path": "resources/feat_lucky_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.424059"
+    },
+    {
+      "id": "e4964930-c49a-4a5c-9a73-cfec0634c3ce",
+      "name": "Lordly Resolve",
+      "path": "resources/feat_lordly_resolve_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:07:15.335712"
+    },
+    {
+      "id": "water_walk",
+      "name": "Water Walk",
+      "path": "resources/spell_water_walk_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.666025"
+    },
+    {
+      "id": "toll_the_dead",
+      "name": "Toll the Dead",
+      "path": "resources/spell_toll_the_dead_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.676858"
+    },
+    {
+      "id": "primordial_ward",
+      "name": "Primordial Ward",
+      "path": "resources/spell_primordial_ward_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.672184"
+    },
+    {
+      "id": "arcane_weapon",
+      "name": "Arcane Weapon",
+      "path": "resources/spell_arcane_weapon_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.677517"
+    },
+    {
+      "id": "mom",
+      "name": "source_mo_m_mom",
+      "path": "resources/source_source_mo_m_mom.rpg",
+      "updated_at": "2025-01-10T08:05:38.930287"
+    },
+    {
+      "id": "fed30c99-96ce-4f3e-a148-64a5587d15fd",
+      "name": "Dead Magic Dweller",
+      "path": "resources/background_dead_magic_dweller_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:30:18.949437"
+    },
+    {
+      "id": "lightning_arrow",
+      "name": "Lightning Arrow",
+      "path": "resources/spell_lightning_arrow_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.632998"
+    },
+    {
+      "id": "circle_of_power",
+      "name": "Circle of Power",
+      "path": "resources/spell_circle_of_power_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.648078"
+    },
+    {
+      "id": "hallow",
+      "name": "Hallow",
+      "path": "resources/spell_hallow_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655928"
+    },
+    {
+      "id": "grappler",
+      "name": "Grappler",
+      "path": "resources/feat_grappler_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.410906"
+    },
+    {
+      "id": "animal_shapes",
+      "name": "Animal Shapes",
+      "path": "resources/spell_animal_shapes_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.638309"
+    },
+    {
+      "id": "ray_of_enfeeblement",
+      "name": "Ray of Enfeeblement",
+      "path": "resources/spell_ray_of_enfeeblement_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.662409"
+    },
+    {
+      "id": "magnificent_mansion",
+      "name": "Mordenkainen's Magnificent Mansion",
+      "path": "resources/spell_mordenkainen_s_magnificent_mansion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.678503"
+    },
+    {
+      "id": "immolation",
+      "name": "Immolation",
+      "path": "resources/spell_immolation_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.673276"
+    },
+    {
+      "id": "stone_shape",
+      "name": "Stone Shape",
+      "path": "resources/spell_stone_shape_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663998"
+    },
+    {
+      "id": "fabricate",
+      "name": "Fabricate",
+      "path": "resources/spell_fabricate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.652292"
+    },
+    {
+      "id": "cloud_of_daggers",
+      "name": "Cloud of Daggers",
+      "path": "resources/spell_cloud_of_daggers_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.630014"
+    },
+    {
+      "id": "suggestion",
+      "name": "Suggestion",
+      "path": "resources/spell_suggestion_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646331"
+    },
+    {
+      "id": "fire_bolt",
+      "name": "Fire Bolt",
+      "path": "resources/spell_fire_bolt_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.612326"
+    },
+    {
+      "id": "legend_lore",
+      "name": "Legend Lore",
+      "path": "resources/spell_legend_lore_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657337"
+    },
+    {
+      "id": "mpp",
+      "name": "source_mpp_mpp",
+      "path": "resources/source_source_mpp_mpp.rpg",
+      "updated_at": "2025-01-10T08:05:38.934044"
+    },
+    {
+      "id": "summon_aberration",
+      "name": "Summon Aberration",
+      "path": "resources/spell_summon_aberration_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.696741"
+    },
+    {
+      "id": "c0b0a79b-bdd7-4cb5-9dc9-a4194098439b",
+      "name": "Unarmed Fighting",
+      "path": "resources/feat_unarmed_fighting_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.946425"
+    },
+    {
+      "id": "d5d62f15-532c-4c56-b6c8-86990cffb2dd",
+      "name": "Holy Star of Mystra",
+      "path": "resources/spell_holy_star_of_mystra_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:47:54.884979"
+    },
+    {
+      "id": "ggr",
+      "name": "source_ggr_ggr",
+      "path": "resources/source_source_ggr_ggr.rpg",
+      "updated_at": "2025-01-10T08:05:38.930599"
+    },
+    {
+      "id": "message",
+      "name": "Message",
+      "path": "resources/spell_message_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.618894"
+    },
+    {
+      "id": "dream",
+      "name": "Dream",
+      "path": "resources/spell_dream_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.651520"
+    },
+    {
+      "id": "0e0dd3e6-2fef-42bd-874e-bda1eccf1685",
+      "name": "Dueling",
+      "path": "resources/feat_dueling_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.949034"
+    },
+    {
+      "id": "wall_of_stone",
+      "name": "Wall of Stone",
+      "path": "resources/spell_wall_of_stone_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.665603"
+    },
+    {
+      "id": "bae668d5-f5a6-4aa5-860e-ec39a5e25315",
+      "name": "Dragonscarred",
+      "path": "resources/feat_dragonscarred_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:09:11.835476"
+    },
+    {
+      "id": "spider_climb",
+      "name": "Spider Climb",
+      "path": "resources/spell_spider_climb_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663592"
+    },
+    {
+      "id": "flame_blade",
+      "name": "Flame Blade",
+      "path": "resources/spell_flame_blade_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.653225"
+    },
+    {
+      "id": "see_invisibility",
+      "name": "See Invisibility",
+      "path": "resources/spell_see_invisibility_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.663349"
+    },
+    {
+      "id": "idrotf",
+      "name": "source_idrot_f_idrotf",
+      "path": "resources/source_source_idrot_f_idrotf.rpg",
+      "updated_at": "2025-01-10T08:05:38.932582"
+    },
+    {
+      "id": "thunderclap",
+      "name": "Thunderclap",
+      "path": "resources/spell_thunderclap_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.667432"
+    },
+    {
+      "id": "telepathy",
+      "name": "Telepathy",
+      "path": "resources/spell_telepathy_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.642014"
+    },
+    {
+      "id": "searing_smite",
+      "name": "Searing Smite",
+      "path": "resources/spell_searing_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.621564"
+    },
+    {
+      "id": "bless",
+      "name": "Bless",
+      "path": "resources/spell_bless_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.605579"
+    },
+    {
+      "id": "summon_aberrant_spirit__ua_",
+      "name": "Summon Aberrant Spirit",
+      "path": "resources/spell_summon_aberrant_spirit_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.690359"
+    },
+    {
+      "id": "pota",
+      "name": "source_pot_a_pota",
+      "path": "resources/source_source_pot_a_pota.rpg",
+      "updated_at": "2025-01-10T08:05:38.934668"
+    },
+    {
+      "id": "summon_construct",
+      "name": "Summon Construct",
+      "path": "resources/spell_summon_construct_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.697177"
+    },
+    {
+      "id": "gentle_repose",
+      "name": "Gentle Repose",
+      "path": "resources/spell_gentle_repose_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.654399"
+    },
+    {
+      "id": "investiture_of_stone",
+      "name": "Investiture of Stone",
+      "path": "resources/spell_investiture_of_stone_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.671766"
+    },
+    {
+      "id": "enhance_ability",
+      "name": "Enhance Ability",
+      "path": "resources/spell_enhance_ability_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.651728"
+    },
+    {
+      "id": "slow",
+      "name": "Slow",
+      "path": "resources/spell_slow_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.635434"
+    },
+    {
+      "id": "intellect_fortress__ua_",
+      "name": "Intellect Fortress",
+      "path": "resources/spell_intellect_fortress_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.690060"
+    },
+    {
+      "id": "illusory_dragon",
+      "name": "Illusory Dragon",
+      "path": "resources/spell_illusory_dragon_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.693875"
+    },
+    {
+      "id": "illusory_script",
+      "name": "Illusory Script",
+      "path": "resources/spell_illusory_script_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.616257"
+    },
+    {
+      "id": "planar_ally",
+      "name": "Planar Ally",
+      "path": "resources/spell_planar_ally_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.661651"
+    },
+    {
+      "id": "mot",
+      "name": "source_mot_mot",
+      "path": "resources/source_source_mot_mot.rpg",
+      "updated_at": "2025-01-10T08:05:38.930954"
+    },
+    {
+      "id": "nondetection",
+      "name": "Nondetection",
+      "path": "resources/spell_nondetection_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634285"
+    },
+    {
+      "id": "egw",
+      "name": "source_egw_egw",
+      "path": "resources/source_source_egw_egw.rpg",
+      "updated_at": "2025-01-10T08:05:38.930863"
+    },
+    {
+      "id": "guardian_of_nature",
+      "name": "Guardian of Nature",
+      "path": "resources/spell_guardian_of_nature_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.701422"
+    },
+    {
+      "id": "wrath_of_nature",
+      "name": "Wrath of Nature",
+      "path": "resources/spell_wrath_of_nature_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.691580"
+    },
+    {
+      "id": "slw",
+      "name": "source_slw_slw",
+      "path": "resources/source_source_slw_slw.rpg",
+      "updated_at": "2025-01-10T08:05:38.934961"
+    },
+    {
+      "id": "find_familiar",
+      "name": "Find Familiar",
+      "path": "resources/spell_find_familiar_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.612143"
+    },
+    {
+      "id": "war_caster",
+      "name": "War Caster",
+      "path": "resources/feat_war_caster_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.418721"
+    },
+    {
+      "id": "4bbdbb4f-d347-49c5-a9a8-0cc9ea1d687d",
+      "name": "Boon of Truesight",
+      "path": "resources/feat_boon_of_truesight_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.965816"
+    },
+    {
+      "id": "1d300ba0-c052-491f-924a-0853ba326f9d",
+      "name": "Sailor",
+      "path": "resources/background_sailor_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.966603"
+    },
+    {
+      "id": "wdmm",
+      "name": "source_wdmm_wdmm",
+      "path": "resources/source_source_wdmm_wdmm.rpg",
+      "updated_at": "2025-01-10T08:05:38.932160"
+    },
+    {
+      "id": "xge",
+      "name": "source_xge_xge",
+      "path": "resources/source_source_xge_xge.rpg",
+      "updated_at": "2025-01-10T08:05:38.931813"
+    },
+    {
+      "id": "healer",
+      "name": "Healer",
+      "path": "resources/feat_healer_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.417164"
+    },
+    {
+      "id": "magic_weapon",
+      "name": "Magic Weapon",
+      "path": "resources/spell_magic_weapon_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.658208"
+    },
+    {
+      "id": "12a02b28-577e-4033-97b8-90857272297c",
+      "name": "Defense",
+      "path": "resources/feat_defense_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.969689"
+    },
+    {
+      "id": "maddening_darkness",
+      "name": "Maddening Darkness",
+      "path": "resources/spell_maddening_darkness_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.694046"
+    },
+    {
+      "id": "ravenous_void",
+      "name": "Ravenous Void",
+      "path": "resources/spell_ravenous_void_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.700105"
+    },
+    {
+      "id": "bgg",
+      "name": "source_bgg_bgg",
+      "path": "resources/source_source_bgg_bgg.rpg",
+      "updated_at": "2025-01-10T08:05:38.929966"
+    },
+    {
+      "id": "mental_prison",
+      "name": "Mental Prison",
+      "path": "resources/spell_mental_prison_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.692067"
+    },
+    {
+      "id": "druid_grove",
+      "name": "Druid Grove",
+      "path": "resources/spell_druid_grove_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.681229"
+    },
+    {
+      "id": "continual_flame",
+      "name": "Continual Flame",
+      "path": "resources/spell_continual_flame_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.650027"
+    },
+    {
+      "id": "rarys_telepathic_bond",
+      "name": "Rary's Telepathic Bond",
+      "path": "resources/spell_rary_s_telepathic_bond_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.680615"
+    },
+    {
+      "id": "0a0aaa5f-dc30-477c-aa0e-a3dddf559712",
+      "name": "Boon of Combat Prowess",
+      "path": "resources/feat_boon_of_combat_prowess_phb.rpg",
+      "updated_at": "2025-11-08T19:01:45.785177"
+    },
+    {
+      "id": "hwcs",
+      "name": "source_hwcs_hwcs",
+      "path": "resources/source_source_hwcs_hwcs.rpg",
+      "updated_at": "2025-01-10T08:05:38.936345"
+    },
+    {
+      "id": "7a6ea468-4bd1-4624-8100-72ac1d97d61d",
+      "name": "Criminal",
+      "path": "resources/background_criminal_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.976210"
+    },
+    {
+      "id": "resilient",
+      "name": "Resilient",
+      "path": "resources/feat_resilient_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.412812"
+    },
+    {
+      "id": "inflict_wounds",
+      "name": "Inflict Wounds",
+      "path": "resources/spell_inflict_wounds_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.616496"
+    },
+    {
+      "id": "weird",
+      "name": "Weird",
+      "path": "resources/spell_weird_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.643217"
+    },
+    {
+      "id": "primal_savagery",
+      "name": "Primal Savagery",
+      "path": "resources/spell_primal_savagery_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.682687"
+    },
+    {
+      "id": "shape_water",
+      "name": "Shape Water",
+      "path": "resources/spell_shape_water_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.668932"
+    },
+    {
+      "id": "healing_spirit",
+      "name": "Healing Spirit",
+      "path": "resources/spell_healing_spirit_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.680165"
+    },
+    {
+      "id": "inspiring_leader",
+      "name": "Inspiring Leader",
+      "path": "resources/feat_inspiring_leader_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.405591"
+    },
+    {
+      "id": "df4bd8fa-103a-4729-816e-2223b6dad1ba",
+      "name": "Magic Initiate (Druid)",
+      "path": "resources/feat_magic_initiate_druid_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:38:01.139294"
+    },
+    {
+      "id": "dispel_magic",
+      "name": "Dispel Magic",
+      "path": "resources/spell_dispel_magic_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.631330"
+    },
+    {
+      "id": "simulacrum",
+      "name": "Simulacrum",
+      "path": "resources/spell_simulacrum_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.645872"
+    },
+    {
+      "id": "sunburst",
+      "name": "Sunburst",
+      "path": "resources/spell_sunburst_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.642143"
+    },
+    {
+      "id": "arcane_gate",
+      "name": "Arcane Gate",
+      "path": "resources/spell_arcane_gate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646869"
+    },
+    {
+      "id": "heal",
+      "name": "Heal",
+      "path": "resources/spell_heal_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.656412"
+    },
+    {
+      "id": "d91ca6ae-88f1-444b-842e-f3123099c382",
+      "name": "Harper Agent",
+      "path": "resources/feat_harper_agent_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:48:36.008871"
+    },
+    {
+      "id": "planar_wanderer__sato_",
+      "name": "Planar Wanderer",
+      "path": "resources/feat_planar_wanderer_sato.rpg",
+      "updated_at": "2024-12-20T18:50:28.396316"
+    },
+    {
+      "id": "forbiddance",
+      "name": "Forbiddance",
+      "path": "resources/spell_forbiddance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.653986"
+    },
+    {
+      "id": "bestow_curse",
+      "name": "Bestow Curse",
+      "path": "resources/spell_bestow_curse_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.628964"
+    },
+    {
+      "id": "meld_into_stone",
+      "name": "Meld Into Stone",
+      "path": "resources/spell_meld_into_stone_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634431"
+    },
+    {
+      "id": "whirlwind",
+      "name": "Whirlwind",
+      "path": "resources/spell_whirlwind_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.673129"
+    },
+    {
+      "id": "thorn_whip",
+      "name": "Thorn Whip",
+      "path": "resources/spell_thorn_whip_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.623284"
+    },
+    {
+      "id": "friends",
+      "name": "Friends",
+      "path": "resources/spell_friends_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.612698"
+    },
+    {
+      "id": "create_spelljamming_helm",
+      "name": "Create Spelljamming Helm",
+      "path": "resources/spell_create_spelljamming_helm_aag.rpg",
+      "updated_at": "2024-12-20T18:50:46.704537"
+    },
+    {
+      "id": "soul_cage",
+      "name": "Soul Cage",
+      "path": "resources/spell_soul_cage_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.692651"
+    },
+    {
+      "id": "bmt",
+      "name": "source_bmt_bmt",
+      "path": "resources/source_source_bmt_bmt.rpg",
+      "updated_at": "2025-01-10T08:05:38.929876"
+    },
+    {
+      "id": "conjure_minor_elementals",
+      "name": "Conjure Minor Elementals",
+      "path": "resources/spell_conjure_minor_elementals_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.636362"
+    },
+    {
+      "id": "enemies_abound",
+      "name": "Enemies Abound",
+      "path": "resources/spell_enemies_abound_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.681108"
+    },
+    {
+      "id": "c4ae8d72-2038-4354-a777-07a6b0f93b13",
+      "name": "Zhentarim Tactics",
+      "path": "resources/feat_zhentarim_tactics_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:08:45.541481"
+    },
+    {
+      "id": "synaptic_static",
+      "name": "Synaptic Static",
+      "path": "resources/spell_synaptic_static_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.691399"
+    },
+    {
+      "id": "create_bonfire",
+      "name": "Create Bonfire",
+      "path": "resources/spell_create_bonfire_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.667867"
+    },
+    {
+      "id": "78d32920-05d0-4297-b038-0ace855992c8",
+      "name": "Spellfire Flare",
+      "path": "resources/spell_spellfire_flare_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:59:11.322299"
+    },
+    {
+      "id": "control_flames",
+      "name": "Control Flames",
+      "path": "resources/spell_control_flames_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.667655"
+    },
+    {
+      "id": "clairvoyance",
+      "name": "Clairvoyance",
+      "path": "resources/spell_clairvoyance_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.629843"
+    },
+    {
+      "id": "storm_sphere",
+      "name": "Storm Sphere",
+      "path": "resources/spell_storm_sphere_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.673445"
+    },
+    {
+      "id": "a2180b6e-ef61-4aad-9d04-206196ba1a8f",
+      "name": "Thrown Weapon Fighting",
+      "path": "resources/feat_thrown_weapon_fighting_phb.rpg",
+      "updated_at": "2025-11-20T09:18:39.998704"
+    },
+    {
+      "id": "reality_break",
+      "name": "Reality Break",
+      "path": "resources/spell_reality_break_egw.rpg",
+      "updated_at": "2024-12-20T18:50:46.700238"
+    },
+    {
+      "id": "arcane_eye",
+      "name": "Arcane Eye",
+      "path": "resources/spell_arcane_eye_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.627422"
+    },
+    {
+      "id": "wind_walk",
+      "name": "Wind Walk",
+      "path": "resources/spell_wind_walk_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.666430"
+    },
+    {
+      "id": "3d31f295-35f0-4fed-9837-c0fd64a30814",
+      "name": "Zhentarim Ruffian",
+      "path": "resources/feat_zhentarim_ruffian_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:58:09.132856"
+    },
+    {
+      "id": "purify_food_and_drink",
+      "name": "Purify Food and Drink",
+      "path": "resources/spell_purify_food_and_drink_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.620031"
+    },
+    {
+      "id": "oota",
+      "name": "source_oot_a_oota",
+      "path": "resources/source_source_oot_a_oota.rpg",
+      "updated_at": "2025-01-10T08:05:38.934487"
+    },
+    {
+      "id": "otilukes_freezing_sphere",
+      "name": "Otiluke's Freezing Sphere",
+      "path": "resources/spell_otiluke_s_freezing_sphere_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.681459"
+    },
+    {
+      "id": "create_undead",
+      "name": "Create Undead",
+      "path": "resources/spell_create_undead_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.649890"
+    },
+    {
+      "id": "e554eced-a043-4055-b9ad-050fb409d160",
+      "name": "Great Weapon Fighting",
+      "path": "resources/feat_great_weapon_fighting_phb.rpg",
+      "updated_at": "2025-11-20T09:18:40.003672"
+    },
+    {
+      "id": "crusaders_mantle",
+      "name": "Crusader's Mantle",
+      "path": "resources/spell_crusader_s_mantle_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.631039"
+    },
+    {
+      "id": "1b6e22cf-7fae-459e-b8f0-e69572ab9ef6",
+      "name": "Boon of Bloodshed",
+      "path": "resources/feat_boon_of_bloodshed_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:02:48.229063"
+    },
+    {
+      "id": "mighty_fortress",
+      "name": "Mighty Fortress",
+      "path": "resources/spell_mighty_fortress_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.694337"
+    },
+    {
+      "id": "phb",
+      "name": "source_phb24_phb",
+      "path": "resources/source_source_phb24_phb.rpg",
+      "updated_at": "2025-01-10T08:05:38.929587"
+    },
+    {
+      "id": "negative_energy_flood",
+      "name": "Negative Energy Flood",
+      "path": "resources/spell_negative_energy_flood_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.679918"
+    },
+    {
+      "id": "skill_expert__tce_",
+      "name": "Skill Expert",
+      "path": "resources/feat_skill_expert_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.403022"
+    },
+    {
+      "id": "aura_of_life",
+      "name": "Aura of Life",
+      "path": "resources/spell_aura_of_life_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.627662"
+    },
+    {
+      "id": "poison_spray",
+      "name": "Poison Spray",
+      "path": "resources/spell_poison_spray_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.619225"
+    },
+    {
+      "id": "tongues",
+      "name": "Tongues",
+      "path": "resources/spell_tongues_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.637044"
+    },
+    {
+      "id": "foresight",
+      "name": "Foresight",
+      "path": "resources/spell_foresight_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.639885"
+    },
+    {
+      "id": "ec0deff2-17f0-4a0b-bbdb-23423f41955f",
+      "name": "Sage",
+      "path": "resources/background_sage_phb.rpg",
+      "updated_at": "2025-11-20T09:18:40.010228"
+    },
+    {
+      "id": "199ce0ee-8ccd-4421-bbb7-b80a17ace452",
+      "name": "Simbul's Synostodweomer",
+      "path": "resources/spell_simbul_s_synostodweomer_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:53:42.236001"
+    },
+    {
+      "id": "40134be3-5ad3-4f94-a46a-8137031793db",
+      "name": "Protection",
+      "path": "resources/feat_protection_phb.rpg",
+      "updated_at": "2025-11-20T09:18:40.012063"
+    },
+    {
+      "id": "pass_without_trace",
+      "name": "Pass Without Trace",
+      "path": "resources/spell_pass_without_trace_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.661031"
+    },
+    {
+      "id": "silent_image",
+      "name": "Silent Image",
+      "path": "resources/spell_silent_image_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.622367"
+    },
+    {
+      "id": "psin",
+      "name": "source_psin_psin",
+      "path": "resources/source_source_psin_psin.rpg",
+      "updated_at": "2025-01-10T08:05:38.936587"
+    },
+    {
+      "id": "ce2a64fe-c85c-4315-9a8e-3a059c14c625",
+      "name": "Rashemi Wanderer",
+      "path": "resources/background_rashemi_wanderer_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:42:24.485215"
+    },
+    {
+      "id": "mind_sliver",
+      "name": "Mind Sliver",
+      "path": "resources/spell_mind_sliver_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.696211"
+    },
+    {
+      "id": "skt",
+      "name": "source_skt_skt",
+      "path": "resources/source_source_skt_skt.rpg",
+      "updated_at": "2025-01-10T08:05:38.934892"
+    },
+    {
+      "id": "jims_glowing_coin",
+      "name": "Jim's Glowing Coin",
+      "path": "resources/spell_jim_s_glowing_coin_ai.rpg",
+      "updated_at": "2024-12-20T18:50:46.687851"
+    },
+    {
+      "id": "vrgr",
+      "name": "source_vrgr_vrgr",
+      "path": "resources/source_source_vrgr_vrgr.rpg",
+      "updated_at": "2025-01-10T08:05:38.930449"
+    },
+    {
+      "id": "wall_of_thorns",
+      "name": "Wall of Thorns",
+      "path": "resources/spell_wall_of_thorns_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.665740"
+    },
+    {
+      "id": "icingdeaths_frost",
+      "name": "Icingdeath's Frost",
+      "path": "resources/spell_icingdeath_s_frost_ua.rpg",
+      "updated_at": "2024-12-20T18:50:46.702289"
+    },
+    {
+      "id": "hail_of_thorns",
+      "name": "Hail of Thorns",
+      "path": "resources/spell_hail_of_thorns_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.613714"
+    },
+    {
+      "id": "reincarnate",
+      "name": "Reincarnate",
+      "path": "resources/spell_reincarnate_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.662527"
+    },
+    {
+      "id": "mold_earth",
+      "name": "Mold Earth",
+      "path": "resources/spell_mold_earth_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.668382"
+    },
+    {
+      "id": "veor",
+      "name": "source_veo_r_veor",
+      "path": "resources/source_source_veo_r_veor.rpg",
+      "updated_at": "2025-01-10T08:05:38.935346"
+    },
+    {
+      "id": "371236dd-b4fe-4e36-bfc6-1f80728b6a7e",
+      "name": "Boon of Revelry",
+      "path": "resources/feat_boon_of_revelry_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:04:15.848472"
+    },
+    {
+      "id": "cloudkill",
+      "name": "Cloudkill",
+      "path": "resources/spell_cloudkill_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.648236"
+    },
+    {
+      "id": "locate_object",
+      "name": "Locate Object",
+      "path": "resources/spell_locate_object_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657966"
+    },
+    {
+      "id": "tashas_mind_whip",
+      "name": "Tasha's Mind Whip",
+      "path": "resources/spell_tasha_s_mind_whip_tce.rpg",
+      "updated_at": "2024-12-20T18:50:46.698669"
+    },
+    {
+      "id": "locate_animals_or_plants",
+      "name": "Locate Animals or Plants",
+      "path": "resources/spell_locate_animals_or_plants_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657539"
+    },
+    {
+      "id": "power_word_heal",
+      "name": "Power Word Heal",
+      "path": "resources/spell_power_word_heal_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.641058"
+    },
+    {
+      "id": "freedom_of_movement",
+      "name": "Freedom of Movement",
+      "path": "resources/spell_freedom_of_movement_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.654121"
+    },
+    {
+      "id": "6458f77c-d942-48de-a2bc-0ba933bf8bcf",
+      "name": "Spellfire Adept",
+      "path": "resources/feat_spellfire_adept_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:08:01.414566"
+    },
+    {
+      "id": "spell_sniper",
+      "name": "Spell Sniper",
+      "path": "resources/feat_spell_sniper_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.392765"
+    },
+    {
+      "id": "kkw",
+      "name": "source_kkw_kkw",
+      "path": "resources/source_source_kkw_kkw.rpg",
+      "updated_at": "2025-01-10T08:05:38.933749"
+    },
+    {
+      "id": "observant",
+      "name": "Observant",
+      "path": "resources/feat_observant_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.417496"
+    },
+    {
+      "id": "be4ed939-e678-4822-8b03-de6c91bb16d3",
+      "name": "Soldier",
+      "path": "resources/background_soldier_phb.rpg",
+      "updated_at": "2025-11-20T09:18:40.027815"
+    },
+    {
+      "id": "kinetic_jaunt",
+      "name": "Kinetic Jaunt",
+      "path": "resources/spell_kinetic_jaunt_scc.rpg",
+      "updated_at": "2024-12-20T18:50:46.703973"
+    },
+    {
+      "id": "maximilians_earthen_grasp",
+      "name": "Maximilian's Earthen Grasp",
+      "path": "resources/spell_maximilian_s_earthen_grasp_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.678164"
+    },
+    {
+      "id": "fear",
+      "name": "Fear",
+      "path": "resources/spell_fear_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.631835"
+    },
+    {
+      "id": "lightning_bolt",
+      "name": "Lightning Bolt",
+      "path": "resources/spell_lightning_bolt_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.657681"
+    },
+    {
+      "id": "far_step",
+      "name": "Far Step",
+      "path": "resources/spell_far_step_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.690880"
+    },
+    {
+      "id": "summon_fiend",
+      "name": "Summon Fiend",
+      "path": "resources/spell_summon_fiend_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.697660"
+    },
+    {
+      "id": "glyph_of_warding",
+      "name": "Glyph of Warding",
+      "path": "resources/spell_glyph_of_warding_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.654851"
+    },
+    {
+      "id": "summon_draconic_spirit__ftd_",
+      "name": "Summon Dragon",
+      "path": "resources/spell_summon_dragon_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.703788"
+    },
+    {
+      "id": "greater_restoration",
+      "name": "Greater Restoration",
+      "path": "resources/spell_greater_restoration_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.655234"
+    },
+    {
+      "id": "bones_of_the_earth",
+      "name": "Bones of the Earth",
+      "path": "resources/spell_bones_of_the_earth_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.670330"
+    },
+    {
+      "id": "285e399f-a950-466a-8f7a-6df3a276426a",
+      "name": "Deryan's Helpful Homunculi",
+      "path": "resources/spell_deryan_s_helpful_homunculi_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:42:17.002156"
+    },
+    {
+      "id": "wrathful_smite",
+      "name": "Wrathful Smite",
+      "path": "resources/spell_wrathful_smite_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.625061"
+    },
+    {
+      "id": "d012841e-563d-4f78-98d7-0e916f3a815a",
+      "name": "Heavy Armor Master",
+      "path": "resources/feat_heavy_armor_master_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.422682"
+    },
+    {
+      "id": "otilukes_resilient_sphere",
+      "name": "Otiluke's Resilient Sphere",
+      "path": "resources/spell_otiluke_s_resilient_sphere_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.634718"
+    },
+    {
+      "id": "7a006f24-f2bc-49ae-90f4-69df8fe86393",
+      "name": "Syluné's Viper",
+      "path": "resources/spell_syluné_s_viper_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:57:54.951469"
+    },
+    {
+      "id": "elemental_weapon",
+      "name": "Elemental Weapon",
+      "path": "resources/spell_elemental_weapon_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.631530"
+    },
+    {
+      "id": "awaken",
+      "name": "Awaken",
+      "path": "resources/spell_awaken_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.646977"
+    },
+    {
+      "id": "expeditious_retreat",
+      "name": "Expeditious Retreat",
+      "path": "resources/spell_expeditious_retreat_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.611588"
+    },
+    {
+      "id": "geas",
+      "name": "Geas",
+      "path": "resources/spell_geas_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.654256"
+    },
+    {
+      "id": "aura_of_purity",
+      "name": "Aura of Purity",
+      "path": "resources/spell_aura_of_purity_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.627873"
+    },
+    {
+      "id": "dual_wielder",
+      "name": "Dual Wielder",
+      "path": "resources/feat_dual_wielder_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.410360"
+    },
+    {
+      "id": "sato",
+      "name": "source_sat_o_sato",
+      "path": "resources/source_source_sat_o_sato.rpg",
+      "updated_at": "2025-01-10T08:05:38.929240"
+    },
+    {
+      "id": "abi-dalzims_horrid_wilting",
+      "name": "Abi-Dalzim's Horrid Wilting",
+      "path": "resources/spell_abi_dalzim_s_horrid_wilting_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.693679"
+    },
+    {
+      "id": "harm",
+      "name": "Harm",
+      "path": "resources/spell_harm_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.656053"
+    },
+    {
+      "id": "holy_aura",
+      "name": "Holy Aura",
+      "path": "resources/spell_holy_aura_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.640214"
+    },
+    {
+      "id": "pyrotechnics",
+      "name": "Pyrotechnics",
+      "path": "resources/spell_pyrotechnics_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.667237"
+    },
+    {
+      "id": "ba6933e8-531c-4e07-bd5d-0c2fbc099af3",
+      "name": "Boon of Fortune's Favor",
+      "path": "resources/feat_boon_of_fortune_s_favor_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T19:03:30.573818"
+    },
+    {
+      "id": "thunder_step",
+      "name": "Thunder Step",
+      "path": "resources/spell_thunder_step_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.675137"
+    },
+    {
+      "id": "word_of_recall",
+      "name": "Word of Recall",
+      "path": "resources/spell_word_of_recall_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.666774"
+    },
+    {
+      "id": "9e29b0ef-1c0f-4671-aaa0-d016d0dae7e0",
+      "name": "Boon of Speed",
+      "path": "resources/feat_boon_of_speed_phb.rpg",
+      "updated_at": "2025-11-20T09:18:40.046175"
+    },
+    {
+      "id": "crown_of_madness",
+      "name": "Crown of Madness",
+      "path": "resources/spell_crown_of_madness_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.637798"
+    },
+    {
+      "id": "monk",
+      "name": "Monk",
+      "path": "resources/class_monk_phb.rpg",
+      "updated_at": "2024-12-27T17:49:29.473703"
+    },
+    {
+      "id": "protection_from_evil_and_good",
+      "name": "Protection from Evil and Good",
+      "path": "resources/spell_protection_from_evil_and_good_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.619896"
+    },
+    {
+      "id": "75d82a12-b320-4f13-8821-6ec7967a5163",
+      "name": "Interception",
+      "path": "resources/feat_interception_phb.rpg",
+      "updated_at": "2025-11-20T09:18:40.054126"
+    },
+    {
+      "id": "clone",
+      "name": "Clone",
+      "path": "resources/spell_clone_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.638899"
+    },
+    {
+      "id": "tavern_brawler",
+      "name": "Tavern Brawler",
+      "path": "resources/feat_tavern_brawler_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.404569"
+    },
+    {
+      "id": "feign_death",
+      "name": "Feign Death",
+      "path": "resources/spell_feign_death_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.631969"
+    },
+    {
+      "id": "03aa7234-3fd5-45d6-a744-6a339515fffe",
+      "name": "Mythalkeeper",
+      "path": "resources/background_mythalkeeper_530921dd_e488_4c0a_a191_58a746916815.rpg",
+      "updated_at": "2025-11-08T18:41:08.925741"
+    },
+    {
+      "id": "mirror_image",
+      "name": "Mirror Image",
+      "path": "resources/spell_mirror_image_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.658897"
+    },
+    {
+      "id": "charm_monster",
+      "name": "Charm Monster",
+      "path": "resources/spell_charm_monster_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.689705"
+    },
+    {
+      "id": "98837393-923a-4002-9e2c-e99ee1e8ad38",
+      "name": "Entertainer",
+      "path": "resources/background_entertainer_phb.rpg",
+      "updated_at": "2025-11-20T09:18:40.060361"
+    },
+    {
+      "id": "magic_missile",
+      "name": "Magic Missile",
+      "path": "resources/spell_magic_missile_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.618525"
+    },
+    {
+      "id": "mage_slayer",
+      "name": "Mage Slayer",
+      "path": "resources/feat_mage_slayer_phb.rpg",
+      "updated_at": "2024-12-20T18:50:28.409622"
+    },
+    {
+      "id": "maelstrom",
+      "name": "Maelstrom",
+      "path": "resources/spell_maelstrom_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.672055"
+    },
+    {
+      "id": "speak_with_dead",
+      "name": "Speak with Dead",
+      "path": "resources/spell_speak_with_dead_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.635568"
+    },
+    {
+      "id": "hold_monster",
+      "name": "Hold Monster",
+      "path": "resources/spell_hold_monster_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.656682"
+    },
+    {
+      "id": "reverse_gravity",
+      "name": "Reverse Gravity",
+      "path": "resources/spell_reverse_gravity_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.645654"
+    },
+    {
+      "id": "mass_polymorph",
+      "name": "Mass Polymorph",
+      "path": "resources/spell_mass_polymorph_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.694476"
+    },
+    {
+      "id": "ashardalons_stride",
+      "name": "Ashardalon's Stride",
+      "path": "resources/spell_ashardalon_s_stride_aag.rpg",
+      "updated_at": "2024-12-20T18:50:46.702959"
+    },
+    {
+      "id": "skill_empowerment",
+      "name": "Skill Empowerment",
+      "path": "resources/spell_skill_empowerment_xge.rpg",
+      "updated_at": "2024-12-20T18:50:46.681820"
+    },
+    {
+      "id": "enthrall",
+      "name": "Enthrall",
+      "path": "resources/spell_enthrall_phb.rpg",
+      "updated_at": "2024-12-20T18:50:46.652151"
+    }
+  ]
+}
