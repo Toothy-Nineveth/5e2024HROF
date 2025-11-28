@@ -166,7 +166,7 @@
       "id": "796ffca5-5892-43fa-ad05-3f143d50e7fd",
       "name": "Hermit",
       "path": "resources/background_hermit_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.462503"
+      "updated_at": "2025-11-20T09:50:47.533092"
     },
     {
       "id": "alarm",
@@ -250,7 +250,7 @@
       "id": "5acb6ac8-24c3-4381-acca-f5edf72a7fbc",
       "name": "Boon of Recovery",
       "path": "resources/feat_boon_of_recovery_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.471467"
+      "updated_at": "2025-11-20T09:50:47.543370"
     },
     {
       "id": "erupting_earth",
@@ -292,7 +292,7 @@
       "id": "7d0e6b31-7b66-4d09-a350-3bf348b1df6f",
       "name": "Guard",
       "path": "resources/background_guard_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.497"
+      "updated_at": "2025-11-20T09:50:47.570932"
     },
     {
       "id": "armor_of_agathys",
@@ -340,7 +340,7 @@
       "id": "07b81bce-c591-44ce-ae36-c0d185ef3632",
       "name": "Druidic Warrior",
       "path": "resources/feat_druidic_warrior_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.508598"
+      "updated_at": "2025-11-20T09:50:47.583535"
     },
     {
       "id": "cure_wounds",
@@ -532,7 +532,7 @@
       "id": "e4a569a1-0b1e-426b-9608-81b244d52da5",
       "name": "Two-Weapon Fighting",
       "path": "resources/feat_two_weapon_fighting_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.565121"
+      "updated_at": "2025-11-20T09:50:47.646798"
     },
     {
       "id": "speak_with_plants",
@@ -574,7 +574,7 @@
       "id": "84930251-63fe-4909-8549-f580fef71076",
       "name": "Archery",
       "path": "resources/feat_archery_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.569352"
+      "updated_at": "2025-11-20T09:50:47.651024"
     },
     {
       "id": "guidance",
@@ -676,7 +676,7 @@
       "id": "0ab44d05-9d81-4dfa-90f2-45b079053b2a",
       "name": "Boon of Irresistible Offense",
       "path": "resources/feat_boon_of_irresistible_offense_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.585626"
+      "updated_at": "2025-11-20T09:50:47.663221"
     },
     {
       "id": "dominate_person",
@@ -736,7 +736,7 @@
       "id": "cb418782-4ba3-4f25-8555-e238f4a425dc",
       "name": "Speedy",
       "path": "resources/feat_speedy_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.592050"
+      "updated_at": "2025-11-20T09:50:47.671409"
     },
     {
       "id": "remove_curse",
@@ -928,7 +928,7 @@
       "id": "77e6780b-9e2f-42e4-a6ae-876b32dc5793",
       "name": "Farmer",
       "path": "resources/background_farmer_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.610341"
+      "updated_at": "2025-11-20T09:50:47.696459"
     },
     {
       "id": "chill_touch",
@@ -1348,7 +1348,7 @@
       "id": "ab7b159a-d6af-4e1f-8e71-8c2986a90578",
       "name": "Boon of Energy Resistance",
       "path": "resources/feat_boon_of_energy_resistance_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.649613"
+      "updated_at": "2025-11-20T09:50:47.740846"
     },
     {
       "id": "wall_of_ice",
@@ -1372,7 +1372,7 @@
       "id": "8acf3de4-414b-4241-93a0-89f26de859aa",
       "name": "Boon of Dimensional Travel",
       "path": "resources/feat_boon_of_dimensional_travel_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.652172"
+      "updated_at": "2025-11-20T09:50:47.743439"
     },
     {
       "id": "blade_ward",
@@ -1474,7 +1474,7 @@
       "id": "28ba8258-7a88-46ce-a98c-29a9e932a6ad",
       "name": "Artisan",
       "path": "resources/background_artisan_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.661512"
+      "updated_at": "2025-11-20T09:50:47.753515"
     },
     {
       "id": "mind_spike",
@@ -1666,7 +1666,7 @@
       "id": "eb9b8c22-6c9a-408c-81a3-f8cbdfefb5ae",
       "name": "Martial Weapon Training",
       "path": "resources/feat_martial_weapon_training_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.686634"
+      "updated_at": "2025-11-20T09:50:47.780692"
     },
     {
       "id": "mass_suggestion",
@@ -1696,7 +1696,7 @@
       "id": "8b4ddba7-4136-4bb5-874c-246a3c7d6696",
       "name": "Boon of Fate",
       "path": "resources/feat_boon_of_fate_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.693193"
+      "updated_at": "2025-11-20T09:50:47.788384"
     },
     {
       "id": "darkness",
@@ -1996,7 +1996,7 @@
       "id": "b50a76aa-d2c5-4c0e-afcc-5996a8c32106",
       "name": "Scribe",
       "path": "resources/background_scribe_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.721303"
+      "updated_at": "2025-11-20T09:50:47.818234"
     },
     {
       "id": "spirit_guardians",
@@ -2098,7 +2098,7 @@
       "id": "7991bcc4-e1f8-4e02-8aba-ee5295a835bd",
       "name": "Boon of Skill",
       "path": "resources/feat_boon_of_skill_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.742167"
+      "updated_at": "2025-11-20T09:50:47.840760"
     },
     {
       "id": "swift_quiver",
@@ -2122,7 +2122,7 @@
       "id": "6c223bee-180d-4053-975c-21cacdd8afa3",
       "name": "Acolyte",
       "path": "resources/background_acolyte_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.744377"
+      "updated_at": "2025-11-20T09:50:47.843221"
     },
     {
       "id": "detect_magic",
@@ -2182,13 +2182,13 @@
       "id": "cf856e6f-0a64-480c-a01e-ff0d02c4c0ff",
       "name": "Merchant",
       "path": "resources/background_merchant_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.750253"
+      "updated_at": "2025-11-20T09:50:47.849734"
     },
     {
       "id": "7abc8c2d-fa1c-4a9d-b86f-ac4b38344aa5",
       "name": "Blessed Warrior",
       "path": "resources/feat_blessed_warrior_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.751163"
+      "updated_at": "2025-11-20T09:50:47.850832"
     },
     {
       "id": "borrowed_knowledge",
@@ -2242,7 +2242,7 @@
       "id": "e4452763-e684-4223-9e8f-5e46fc7941a9",
       "name": "Guide",
       "path": "resources/background_guide_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.756165"
+      "updated_at": "2025-11-20T09:50:47.856456"
     },
     {
       "id": "transport_via_plants",
@@ -2338,7 +2338,7 @@
       "id": "5c052344-c8fe-4e9c-afdd-f86f16309d6a",
       "name": "Boon of the Night Spirit",
       "path": "resources/feat_boon_of_the_night_spirit_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.765747"
+      "updated_at": "2025-11-20T09:50:47.868233"
     },
     {
       "id": "d860a324-c300-43b9-81c4-05976e07ce26",
@@ -2356,7 +2356,7 @@
       "id": "fbe80d94-5b26-4354-baf3-63db1be736a4",
       "name": "Boon of Spell Recall",
       "path": "resources/feat_boon_of_spell_recall_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.767727"
+      "updated_at": "2025-11-20T09:50:47.870502"
     },
     {
       "id": "find_steed",
@@ -2374,7 +2374,7 @@
       "id": "99ae4bdf-16bb-4af1-a973-f37304658053",
       "name": "Boon of Fortitude",
       "path": "resources/feat_boon_of_fortitude_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.769740"
+      "updated_at": "2025-11-20T09:50:47.873007"
     },
     {
       "id": "guiding_bolt",
@@ -2740,7 +2740,7 @@
       "id": "e84f0bfd-75bc-48ce-aa23-1310e96beae6",
       "name": "Wayfarer",
       "path": "resources/background_wayfarer_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.817294"
+      "updated_at": "2025-11-20T09:50:47.943339"
     },
     {
       "id": "a53f545c-2d0b-4cb0-97c9-0cd1ea2d80ba",
@@ -2752,13 +2752,13 @@
       "id": "df715154-049a-49c8-ae39-18802f175f67",
       "name": "Charlatan",
       "path": "resources/background_charlatan_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.820173"
+      "updated_at": "2025-11-20T09:50:47.948692"
     },
     {
       "id": "b6aa3970-6093-4447-b057-d06bcb1221fd",
       "name": "Blind Fighting",
       "path": "resources/feat_blind_fighting_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.821136"
+      "updated_at": "2025-11-20T09:50:47.954625"
     },
     {
       "id": "banishment",
@@ -3232,7 +3232,7 @@
       "id": "304bab0a-6aa2-4036-a96f-0e8aa853a9e0",
       "name": "Crafter",
       "path": "resources/feat_crafter_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.899879"
+      "updated_at": "2025-11-20T09:50:48.037246"
     },
     {
       "id": "evards_black_tentacles",
@@ -3262,7 +3262,7 @@
       "id": "99445422-30d6-4026-8baf-b350ec102403",
       "name": "Noble",
       "path": "resources/background_noble_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.909475"
+      "updated_at": "2025-11-20T09:50:48.041017"
     },
     {
       "id": "catnap",
@@ -3310,7 +3310,7 @@
       "id": "3e23920a-46a2-4fc5-bee3-9f74d148ad4a",
       "name": "Musician",
       "path": "resources/feat_musician_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.915409"
+      "updated_at": "2025-11-20T09:50:48.047972"
     },
     {
       "id": "crusher__tce_",
@@ -3436,7 +3436,7 @@
       "id": "22ce1a64-c297-43e0-881f-3d7279ca4e4b",
       "name": "Medium Armor Master",
       "path": "resources/feat_medium_armor_master_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.927279"
+      "updated_at": "2025-11-20T09:50:48.060878"
     },
     {
       "id": "produce_flame",
@@ -3628,7 +3628,7 @@
       "id": "c0b0a79b-bdd7-4cb5-9dc9-a4194098439b",
       "name": "Unarmed Fighting",
       "path": "resources/feat_unarmed_fighting_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.946425"
+      "updated_at": "2025-11-20T09:50:48.082985"
     },
     {
       "id": "d5d62f15-532c-4c56-b6c8-86990cffb2dd",
@@ -3658,7 +3658,7 @@
       "id": "0e0dd3e6-2fef-42bd-874e-bda1eccf1685",
       "name": "Dueling",
       "path": "resources/feat_dueling_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.949034"
+      "updated_at": "2025-11-20T09:50:48.085983"
     },
     {
       "id": "wall_of_stone",
@@ -3838,13 +3838,13 @@
       "id": "4bbdbb4f-d347-49c5-a9a8-0cc9ea1d687d",
       "name": "Boon of Truesight",
       "path": "resources/feat_boon_of_truesight_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.965816"
+      "updated_at": "2025-11-20T09:50:48.103387"
     },
     {
       "id": "1d300ba0-c052-491f-924a-0853ba326f9d",
       "name": "Sailor",
       "path": "resources/background_sailor_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.966603"
+      "updated_at": "2025-11-20T09:50:48.104310"
     },
     {
       "id": "wdmm",
@@ -3874,7 +3874,7 @@
       "id": "12a02b28-577e-4033-97b8-90857272297c",
       "name": "Defense",
       "path": "resources/feat_defense_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.969689"
+      "updated_at": "2025-11-20T09:50:48.106969"
     },
     {
       "id": "maddening_darkness",
@@ -3934,7 +3934,7 @@
       "id": "7a6ea468-4bd1-4624-8100-72ac1d97d61d",
       "name": "Criminal",
       "path": "resources/background_criminal_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.976210"
+      "updated_at": "2025-11-20T09:50:48.112145"
     },
     {
       "id": "resilient",
@@ -4138,7 +4138,7 @@
       "id": "a2180b6e-ef61-4aad-9d04-206196ba1a8f",
       "name": "Thrown Weapon Fighting",
       "path": "resources/feat_thrown_weapon_fighting_phb.rpg",
-      "updated_at": "2025-11-20T09:18:39.998704"
+      "updated_at": "2025-11-20T09:50:48.132845"
     },
     {
       "id": "reality_break",
@@ -4192,7 +4192,7 @@
       "id": "e554eced-a043-4055-b9ad-050fb409d160",
       "name": "Great Weapon Fighting",
       "path": "resources/feat_great_weapon_fighting_phb.rpg",
-      "updated_at": "2025-11-20T09:18:40.003672"
+      "updated_at": "2025-11-20T09:50:48.137626"
     },
     {
       "id": "crusaders_mantle",
@@ -4258,7 +4258,7 @@
       "id": "ec0deff2-17f0-4a0b-bbdb-23423f41955f",
       "name": "Sage",
       "path": "resources/background_sage_phb.rpg",
-      "updated_at": "2025-11-20T09:18:40.010228"
+      "updated_at": "2025-11-20T09:50:48.143974"
     },
     {
       "id": "199ce0ee-8ccd-4421-bbb7-b80a17ace452",
@@ -4270,7 +4270,7 @@
       "id": "40134be3-5ad3-4f94-a46a-8137031793db",
       "name": "Protection",
       "path": "resources/feat_protection_phb.rpg",
-      "updated_at": "2025-11-20T09:18:40.012063"
+      "updated_at": "2025-11-20T09:50:48.145537"
     },
     {
       "id": "pass_without_trace",
@@ -4426,7 +4426,7 @@
       "id": "be4ed939-e678-4822-8b03-de6c91bb16d3",
       "name": "Soldier",
       "path": "resources/background_soldier_phb.rpg",
-      "updated_at": "2025-11-20T09:18:40.027815"
+      "updated_at": "2025-11-20T09:50:48.161482"
     },
     {
       "id": "kinetic_jaunt",
@@ -4606,7 +4606,7 @@
       "id": "9e29b0ef-1c0f-4671-aaa0-d016d0dae7e0",
       "name": "Boon of Speed",
       "path": "resources/feat_boon_of_speed_phb.rpg",
-      "updated_at": "2025-11-20T09:18:40.046175"
+      "updated_at": "2025-11-20T09:50:48.178798"
     },
     {
       "id": "crown_of_madness",
@@ -4630,7 +4630,7 @@
       "id": "75d82a12-b320-4f13-8821-6ec7967a5163",
       "name": "Interception",
       "path": "resources/feat_interception_phb.rpg",
-      "updated_at": "2025-11-20T09:18:40.054126"
+      "updated_at": "2025-11-20T09:50:48.188215"
     },
     {
       "id": "clone",
@@ -4672,7 +4672,7 @@
       "id": "98837393-923a-4002-9e2c-e99ee1e8ad38",
       "name": "Entertainer",
       "path": "resources/background_entertainer_phb.rpg",
-      "updated_at": "2025-11-20T09:18:40.060361"
+      "updated_at": "2025-11-20T09:50:48.192152"
     },
     {
       "id": "magic_missile",
